@@ -1,0 +1,2316 @@
+Monthly Roster for Instance 5
+ 
+Employee 1: 84.88333333333333 Credited Flying Time (In Hours) 
+Pairing 647 (BASE1) : Start - 2000-01-01 12:06, End - 2000-01-02 20:15
+Pairing 341 (BASE1) : Start - 2000-01-03 12:21, End - 2000-01-05 20:15
+Pairing 274 (BASE1) : Start - 2000-01-06 14:21, End - 2000-01-06 22:26
+Pairing 1234 (BASE1) : Start - 2000-01-12 12:00, End - 2000-01-14 15:35
+Pairing 159 (BASE1) : Start - 2000-01-15 16:44, End - 2000-01-18 00:30
+Pairing 1402 (BASE1) : Start - 2000-01-18 12:21, End - 2000-01-18 20:33
+Employee Vacation Request: 2000-01-19 00:00 ==> 2000-01-31 23:59
+
+ 
+Employee 2: 78.78333333333333 Credited Flying Time (In Hours) 
+Pairing 1191 (BASE1) : Start - 2000-01-04 12:06, End - 2000-01-04 19:26
+Pairing 1246 (BASE1) : Start - 2000-01-05 14:21, End - 2000-01-05 22:26
+Pairing 277 (BASE1) : Start - 2000-01-06 16:42, End - 2000-01-07 22:17
+Pairing 1027 (BASE1) : Start - 2000-01-09 02:55, End - 2000-01-09 11:02
+Pairing 890 (BASE1) : Start - 2000-01-11 02:20, End - 2000-01-12 22:18
+Pairing 507 (BASE1) : Start - 2000-01-13 16:43, End - 2000-01-14 02:03
+Pairing 125 (BASE1) : Start - 2000-01-14 12:21, End - 2000-01-16 15:35
+Employee Vacation Request: 2000-01-17 00:00 ==> 2000-01-30 23:59
+
+ 
+Employee 3: 78.98333333333332 Credited Flying Time (In Hours) 
+Pairing 659 (BASE1) : Start - 2000-01-01 16:43, End - 2000-01-02 00:19
+Pairing 483 (BASE1) : Start - 2000-01-02 16:43, End - 2000-01-03 02:03
+Pairing 1187 (BASE1) : Start - 2000-01-04 12:24, End - 2000-01-04 20:41
+Employee Vacation Request: 2000-01-07 00:00 ==> 2000-01-16 23:59
+Pairing 608 (BASE1) : Start - 2000-01-17 14:21, End - 2000-01-17 22:26
+Pairing 953 (BASE1) : Start - 2000-01-19 11:50, End - 2000-01-22 15:12
+Pairing 575 (BASE1) : Start - 2000-01-23 12:06, End - 2000-01-23 19:26
+Pairing 813 (BASE1) : Start - 2000-01-25 12:21, End - 2000-01-25 20:33
+Pairing 3 (BASE1) : Start - 2000-01-29 13:05, End - 2000-01-31 22:12
+
+ 
+Employee 4: 79.98333333333332 Credited Flying Time (In Hours) 
+Pairing 122 (BASE1) : Start - 2000-01-14 11:00, End - 2000-01-16 12:45
+Pairing 1409 (BASE1) : Start - 2000-01-18 20:33, End - 2000-01-19 03:21
+Pairing 1126 (BASE1) : Start - 2000-01-21 16:22, End - 2000-01-22 01:10
+Pairing 298 (BASE1) : Start - 2000-01-22 14:10, End - 2000-01-22 22:55
+Pairing 1147 (BASE1) : Start - 2000-01-24 11:50, End - 2000-01-25 18:23
+Pairing 445 (BASE1) : Start - 2000-01-26 11:50, End - 2000-01-26 20:33
+Pairing 368 (BASE1) : Start - 2000-01-27 14:40, End - 2000-01-29 21:25
+Pairing 1432 (BASE1) : Start - 2000-01-30 12:50, End - 2000-01-30 21:35
+
+ 
+Employee 5: 42.366666666666674 Credited Flying Time (In Hours) 
+Employee Vacation Request: 2000-01-01 00:00 ==> 2000-01-15 23:59
+Pairing 580 (BASE1) : Start - 2000-01-23 14:21, End - 2000-01-23 22:26
+Pairing 458 (BASE1) : Start - 2000-01-26 11:00, End - 2000-01-28 16:32
+Pairing 1431 (BASE1) : Start - 2000-01-30 15:27, End - 2000-01-31 23:18
+
+ 
+Employee 6: 80.97500000000001 Credited Flying Time (In Hours) 
+Pairing 643 (BASE1) : Start - 2000-01-01 12:05, End - 2000-01-02 15:22
+Pairing 1202 (BASE1) : Start - 2000-01-04 16:43, End - 2000-01-05 02:03
+Pairing 291 (BASE1) : Start - 2000-01-06 20:43, End - 2000-01-09 13:21
+Pairing 1317 (BASE1) : Start - 2000-01-10 12:06, End - 2000-01-10 19:26
+Pairing 384 (BASE1) : Start - 2000-01-16 20:33, End - 2000-01-17 03:21
+Employee Vacation Request: 2000-01-19 00:00 ==> 2000-01-24 23:59
+Pairing 809 (BASE1) : Start - 2000-01-25 14:10, End - 2000-01-25 22:55
+Pairing 450 (BASE1) : Start - 2000-01-26 18:04, End - 2000-01-27 01:06
+Pairing 7 (BASE1) : Start - 2000-01-29 23:25, End - 2000-02-01 01:28
+
+ 
+Employee 7: 79.30000000000001 Credited Flying Time (In Hours) 
+Pairing 485 (BASE1) : Start - 2000-01-02 22:25, End - 2000-01-04 22:18
+Pairing 1039 (BASE1) : Start - 2000-01-09 14:31, End - 2000-01-10 22:18
+Pairing 897 (BASE1) : Start - 2000-01-11 16:39, End - 2000-01-12 01:13
+Pairing 492 (BASE1) : Start - 2000-01-13 14:21, End - 2000-01-13 22:26
+Pairing 157 (BASE1) : Start - 2000-01-15 11:00, End - 2000-01-18 13:21
+Pairing 224 (BASE1) : Start - 2000-01-20 14:21, End - 2000-01-20 22:26
+
+ 
+Employee 8: 84.23333333333333 Credited Flying Time (In Hours) 
+Pairing 481 (BASE1) : Start - 2000-01-02 16:22, End - 2000-01-03 01:10
+Pairing 134 (BASE1) : Start - 2000-01-15 11:50, End - 2000-01-15 20:33
+Pairing 611 (BASE1) : Start - 2000-01-17 03:13, End - 2000-01-17 13:10
+Pairing 952 (BASE1) : Start - 2000-01-19 14:22, End - 2000-01-21 00:19
+Pairing 1136 (BASE1) : Start - 2000-01-21 16:44, End - 2000-01-24 00:30
+Pairing 1142 (BASE1) : Start - 2000-01-24 12:21, End - 2000-01-24 20:33
+Pairing 454 (BASE1) : Start - 2000-01-26 16:22, End - 2000-01-27 01:10
+Pairing 369 (BASE1) : Start - 2000-01-27 23:25, End - 2000-01-29 12:10
+Pairing 89 (BASE1) : Start - 2000-01-31 12:50, End - 2000-01-31 21:35
+
+ 
+Employee 9: 83.55000000000001 Credited Flying Time (In Hours) 
+Pairing 635 (BASE1) : Start - 2000-01-01 12:06, End - 2000-01-01 19:26
+Pairing 466 (BASE1) : Start - 2000-01-02 14:10, End - 2000-01-02 22:55
+Pairing 278 (BASE1) : Start - 2000-01-06 12:05, End - 2000-01-07 18:26
+Pairing 1009 (BASE1) : Start - 2000-01-08 16:22, End - 2000-01-09 01:10
+Pairing 495 (BASE1) : Start - 2000-01-13 12:06, End - 2000-01-13 19:26
+Pairing 107 (BASE1) : Start - 2000-01-14 12:05, End - 2000-01-14 21:07
+Pairing 152 (BASE1) : Start - 2000-01-15 20:43, End - 2000-01-17 20:39
+Pairing 444 (BASE1) : Start - 2000-01-26 03:13, End - 2000-01-26 13:10
+Pairing 349 (BASE1) : Start - 2000-01-27 21:41, End - 2000-01-30 01:58
+
+ 
+Employee 10: 81.35 Credited Flying Time (In Hours) 
+Pairing 328 (BASE1) : Start - 2000-01-03 12:24, End - 2000-01-03 20:41
+Pairing 1329 (BASE1) : Start - 2000-01-10 16:21, End - 2000-01-11 02:24
+Pairing 135 (BASE1) : Start - 2000-01-15 02:55, End - 2000-01-15 11:02
+Pairing 623 (BASE1) : Start - 2000-01-17 22:25, End - 2000-01-19 22:18
+Pairing 602 (BASE1) : Start - 2000-01-23 20:43, End - 2000-01-26 15:12
+Pairing 6 (BASE1) : Start - 2000-01-29 00:47, End - 2000-01-31 19:21
+
+ 
+Employee 11: 83.94999999999999 Credited Flying Time (In Hours) 
+Pairing 1210 (BASE1) : Start - 2000-01-04 02:24, End - 2000-01-07 11:05
+Employee Vacation Request: 2000-01-08 00:00 ==> 2000-01-11 23:59
+Pairing 116 (BASE1) : Start - 2000-01-14 20:33, End - 2000-01-15 03:21
+Pairing 158 (BASE1) : Start - 2000-01-15 22:30, End - 2000-01-18 17:13
+Pairing 933 (BASE1) : Start - 2000-01-19 12:21, End - 2000-01-19 20:33
+Pairing 319 (BASE1) : Start - 2000-01-22 22:30, End - 2000-01-25 00:19
+Pairing 25 (BASE1) : Start - 2000-01-29 04:14, End - 2000-01-29 14:12
+Pairing 1430 (BASE1) : Start - 2000-01-30 21:41, End - 2000-01-31 20:16
+
+ 
+Employee 12: 83.39166666666665 Credited Flying Time (In Hours) 
+Pairing 668 (BASE1) : Start - 2000-01-01 14:31, End - 2000-01-03 00:30
+Pairing 290 (BASE1) : Start - 2000-01-06 02:24, End - 2000-01-09 15:41
+Pairing 154 (BASE1) : Start - 2000-01-15 02:23, End - 2000-01-17 00:30
+Pairing 619 (BASE1) : Start - 2000-01-17 16:21, End - 2000-01-18 02:24
+Pairing 239 (BASE1) : Start - 2000-01-20 02:20, End - 2000-01-22 13:21
+
+ 
+Employee 13: 83.61666666666667 Credited Flying Time (In Hours) 
+Pairing 473 (BASE1) : Start - 2000-01-02 12:05, End - 2000-01-03 19:27
+Pairing 1032 (BASE1) : Start - 2000-01-09 14:21, End - 2000-01-09 22:26
+Pairing 1312 (BASE1) : Start - 2000-01-10 12:24, End - 2000-01-10 20:41
+Pairing 902 (BASE1) : Start - 2000-01-11 16:42, End - 2000-01-13 00:40
+Pairing 243 (BASE1) : Start - 2000-01-20 22:02, End - 2000-01-23 20:15
+Pairing 362 (BASE1) : Start - 2000-01-27 13:21, End - 2000-01-28 16:18
+Pairing 14 (BASE1) : Start - 2000-01-29 13:06, End - 2000-01-29 20:26
+
+ 
+Employee 14: 82.9 Credited Flying Time (In Hours) 
+Pairing 1249 (BASE1) : Start - 2000-01-05 12:21, End - 2000-01-05 20:57
+Pairing 1337 (BASE1) : Start - 2000-01-10 11:00, End - 2000-01-14 00:30
+Employee Vacation Request: 2000-01-16 00:00 ==> 2000-01-18 23:59
+Pairing 1135 (BASE1) : Start - 2000-01-21 20:43, End - 2000-01-24 17:13
+Pairing 820 (BASE1) : Start - 2000-01-25 12:05, End - 2000-01-26 18:23
+Pairing 356 (BASE1) : Start - 2000-01-27 13:06, End - 2000-01-27 20:26
+Pairing 101 (BASE1) : Start - 2000-01-31 13:09, End - 2000-01-31 21:44
+
+ 
+Employee 15: 84.94999999999999 Credited Flying Time (In Hours) 
+Pairing 474 (BASE1) : Start - 2000-01-02 12:00, End - 2000-01-03 18:26
+Pairing 511 (BASE1) : Start - 2000-01-13 18:04, End - 2000-01-15 01:53
+Pairing 945 (BASE1) : Start - 2000-01-19 11:00, End - 2000-01-21 15:35
+Pairing 816 (BASE1) : Start - 2000-01-25 03:04, End - 2000-01-25 12:45
+Pairing 442 (BASE1) : Start - 2000-01-26 02:55, End - 2000-01-26 11:02
+Pairing 354 (BASE1) : Start - 2000-01-27 15:23, End - 2000-01-27 23:27
+Pairing 62 (BASE1) : Start - 2000-01-28 14:40, End - 2000-01-31 21:25
+
+ 
+Employee 16: 84.83333333333334 Credited Flying Time (In Hours) 
+Pairing 327 (BASE1) : Start - 2000-01-03 11:50, End - 2000-01-03 20:33
+Pairing 1207 (BASE1) : Start - 2000-01-04 18:04, End - 2000-01-06 01:53
+Pairing 1330 (BASE1) : Start - 2000-01-10 22:02, End - 2000-01-12 13:05
+Pairing 502 (BASE1) : Start - 2000-01-13 12:05, End - 2000-01-14 18:26
+Pairing 376 (BASE1) : Start - 2000-01-16 03:13, End - 2000-01-16 13:10
+Pairing 606 (BASE1) : Start - 2000-01-17 02:24, End - 2000-01-17 22:46
+Pairing 932 (BASE1) : Start - 2000-01-19 14:21, End - 2000-01-19 22:26
+Pairing 1114 (BASE1) : Start - 2000-01-21 03:13, End - 2000-01-21 13:10
+Pairing 310 (BASE1) : Start - 2000-01-22 16:22, End - 2000-01-23 01:10
+Pairing 588 (BASE1) : Start - 2000-01-23 20:33, End - 2000-01-24 03:21
+Pairing 361 (BASE1) : Start - 2000-01-27 23:31, End - 2000-01-28 18:03
+
+ 
+Employee 17: 84.94999999999997 Credited Flying Time (In Hours) 
+Pairing 322 (BASE1) : Start - 2000-01-03 02:55, End - 2000-01-03 11:02
+Pairing 1194 (BASE1) : Start - 2000-01-04 20:33, End - 2000-01-05 03:21
+Pairing 1263 (BASE1) : Start - 2000-01-05 18:04, End - 2000-01-07 01:53
+Pairing 1049 (BASE1) : Start - 2000-01-09 22:30, End - 2000-01-11 20:39
+Pairing 112 (BASE1) : Start - 2000-01-14 11:50, End - 2000-01-14 20:33
+Pairing 605 (BASE1) : Start - 2000-01-17 12:06, End - 2000-01-17 19:26
+Pairing 1412 (BASE1) : Start - 2000-01-18 16:42, End - 2000-01-19 22:17
+Pairing 295 (BASE1) : Start - 2000-01-22 03:13, End - 2000-01-22 13:10
+Pairing 583 (BASE1) : Start - 2000-01-23 12:05, End - 2000-01-23 21:07
+Pairing 446 (BASE1) : Start - 2000-01-26 12:21, End - 2000-01-26 20:33
+
+ 
+Employee 18: 73.73333333333333 Credited Flying Time (In Hours) 
+Pairing 673 (BASE1) : Start - 2000-01-01 20:43, End - 2000-01-04 12:45
+Pairing 1245 (BASE1) : Start - 2000-01-05 12:24, End - 2000-01-05 20:41
+Pairing 1026 (BASE1) : Start - 2000-01-09 11:00, End - 2000-01-09 20:15
+Pairing 906 (BASE1) : Start - 2000-01-11 22:00, End - 2000-01-14 12:45
+Employee Vacation Request: 2000-01-17 00:00 ==> 2000-01-25 23:59
+Pairing 464 (BASE1) : Start - 2000-01-26 22:30, End - 2000-01-29 01:27
+
+ 
+Employee 19: 84.98333333333335 Credited Flying Time (In Hours) 
+Pairing 490 (BASE1) : Start - 2000-01-02 22:33, End - 2000-01-05 22:18
+Pairing 742 (BASE1) : Start - 2000-01-07 22:25, End - 2000-01-08 22:22
+Pairing 498 (BASE1) : Start - 2000-01-13 16:42, End - 2000-01-14 22:17
+Pairing 629 (BASE1) : Start - 2000-01-17 22:21, End - 2000-01-20 15:22
+Pairing 16 (BASE1) : Start - 2000-01-29 17:39, End - 2000-01-30 03:19
+Pairing 1434 (BASE1) : Start - 2000-01-30 23:30, End - 2000-01-31 20:14
+
+ 
+Employee 20: 84.95000000000002 Credited Flying Time (In Hours) 
+Pairing 653 (BASE1) : Start - 2000-01-01 19:39, End - 2000-01-02 20:39
+Pairing 283 (BASE1) : Start - 2000-01-06 16:43, End - 2000-01-07 02:03
+Pairing 1041 (BASE1) : Start - 2000-01-09 16:39, End - 2000-01-10 01:13
+Pairing 1335 (BASE1) : Start - 2000-01-10 12:01, End - 2000-01-13 00:19
+Pairing 137 (BASE1) : Start - 2000-01-15 03:13, End - 2000-01-15 13:10
+Pairing 227 (BASE1) : Start - 2000-01-20 02:24, End - 2000-01-20 22:46
+Pairing 1123 (BASE1) : Start - 2000-01-21 16:21, End - 2000-01-22 02:24
+Pairing 1150 (BASE1) : Start - 2000-01-24 16:39, End - 2000-01-25 01:13
+Pairing 370 (BASE1) : Start - 2000-01-27 02:20, End - 2000-01-29 18:08
+
+ 
+Employee 21: 85.0 Credited Flying Time (In Hours) 
+Pairing 744 (BASE1) : Start - 2000-01-07 16:39, End - 2000-01-08 01:13
+Pairing 1030 (BASE1) : Start - 2000-01-09 11:50, End - 2000-01-09 20:33
+Pairing 1320 (BASE1) : Start - 2000-01-10 11:50, End - 2000-01-11 18:23
+Pairing 132 (BASE1) : Start - 2000-01-14 22:30, End - 2000-01-17 20:15
+Pairing 1151 (BASE1) : Start - 2000-01-24 18:04, End - 2000-01-25 01:06
+Pairing 811 (BASE1) : Start - 2000-01-25 12:00, End - 2000-01-25 18:45
+Pairing 460 (BASE1) : Start - 2000-01-26 20:43, End - 2000-01-29 01:58
+Pairing 1446 (BASE1) : Start - 2000-01-30 13:24, End - 2000-01-30 21:21
+
+ 
+Employee 22: 78.38333333333333 Credited Flying Time (In Hours) 
+Pairing 486 (BASE1) : Start - 2000-01-02 20:43, End - 2000-01-04 21:07
+Pairing 268 (BASE1) : Start - 2000-01-06 12:21, End - 2000-01-06 20:57
+Pairing 1221 (BASE1) : Start - 2000-01-12 12:21, End - 2000-01-12 20:33
+Pairing 127 (BASE1) : Start - 2000-01-14 22:21, End - 2000-01-17 23:11
+Pairing 1406 (BASE1) : Start - 2000-01-18 12:06, End - 2000-01-18 19:26
+Pairing 594 (BASE1) : Start - 2000-01-23 22:21, End - 2000-01-25 13:05
+Pairing 19 (BASE1) : Start - 2000-01-29 17:21, End - 2000-01-30 03:23
+
+ 
+Employee 23: 81.58333333333333 Credited Flying Time (In Hours) 
+Pairing 343 (BASE1) : Start - 2000-01-03 02:24, End - 2000-01-05 00:19
+Pairing 272 (BASE1) : Start - 2000-01-06 12:06, End - 2000-01-06 19:26
+Pairing 1007 (BASE1) : Start - 2000-01-08 20:42, End - 2000-01-09 14:53
+Pairing 883 (BASE1) : Start - 2000-01-11 14:21, End - 2000-01-11 22:26
+Pairing 513 (BASE1) : Start - 2000-01-13 20:43, End - 2000-01-16 13:21
+Pairing 1422 (BASE1) : Start - 2000-01-18 02:24, End - 2000-01-20 01:06
+Pairing 441 (BASE1) : Start - 2000-01-26 14:10, End - 2000-01-26 22:55
+
+ 
+Employee 24: 66.68333333333332 Credited Flying Time (In Hours) 
+Pairing 326 (BASE1) : Start - 2000-01-03 12:06, End - 2000-01-03 19:26
+Pairing 1002 (BASE1) : Start - 2000-01-08 02:24, End - 2000-01-08 22:46
+Pairing 1034 (BASE1) : Start - 2000-01-09 12:24, End - 2000-01-09 20:41
+Pairing 142 (BASE1) : Start - 2000-01-15 12:00, End - 2000-01-16 18:23
+Pairing 603 (BASE1) : Start - 2000-01-23 22:02, End - 2000-01-27 00:23
+Pairing 8 (BASE1) : Start - 2000-01-29 23:02, End - 2000-01-31 03:32
+
+ 
+Employee 25: 79.58333333333333 Credited Flying Time (In Hours) 
+Pairing 1211 (BASE1) : Start - 2000-01-04 12:01, End - 2000-01-07 01:06
+Pairing 113 (BASE1) : Start - 2000-01-14 02:24, End - 2000-01-14 22:46
+Pairing 633 (BASE1) : Start - 2000-01-17 22:30, End - 2000-01-21 01:06
+Pairing 589 (BASE1) : Start - 2000-01-23 16:43, End - 2000-01-24 02:03
+Pairing 440 (BASE1) : Start - 2000-01-26 12:24, End - 2000-01-26 20:41
+Pairing 57 (BASE1) : Start - 2000-01-28 21:41, End - 2000-01-31 01:58
+
+ 
+Employee 26: 84.51666666666668 Credited Flying Time (In Hours) 
+Pairing 344 (BASE1) : Start - 2000-01-03 22:02, End - 2000-01-06 22:18
+Pairing 1020 (BASE1) : Start - 2000-01-08 22:33, End - 2000-01-11 21:07
+Pairing 1230 (BASE1) : Start - 2000-01-12 16:22, End - 2000-01-13 01:10
+Pairing 374 (BASE1) : Start - 2000-01-16 12:21, End - 2000-01-16 20:33
+Employee Vacation Request: 2000-01-19 00:00 ==> 2000-01-21 23:59
+Pairing 835 (BASE1) : Start - 2000-01-25 12:01, End - 2000-01-28 01:33
+
+ 
+Employee 27: 73.25000000000003 Credited Flying Time (In Hours) 
+Pairing 903 (BASE1) : Start - 2000-01-11 22:21, End - 2000-01-14 20:15
+Pairing 229 (BASE1) : Start - 2000-01-20 12:05, End - 2000-01-21 18:26
+Pairing 1140 (BASE1) : Start - 2000-01-24 12:06, End - 2000-01-24 19:26
+Pairing 826 (BASE1) : Start - 2000-01-25 16:22, End - 2000-01-26 01:10
+Pairing 72 (BASE1) : Start - 2000-01-28 13:06, End - 2000-01-28 20:26
+Pairing 1450 (BASE1) : Start - 2000-01-30 14:40, End - 2000-01-31 23:49
+
+ 
+Employee 28: 84.85000000000001 Credited Flying Time (In Hours) 
+Pairing 469 (BASE1) : Start - 2000-01-02 11:50, End - 2000-01-02 20:33
+Pairing 329 (BASE1) : Start - 2000-01-03 20:33, End - 2000-01-04 03:21
+Pairing 1242 (BASE1) : Start - 2000-01-05 02:24, End - 2000-01-05 11:02
+Pairing 284 (BASE1) : Start - 2000-01-06 16:39, End - 2000-01-07 01:13
+Pairing 1040 (BASE1) : Start - 2000-01-09 16:21, End - 2000-01-10 02:24
+Pairing 884 (BASE1) : Start - 2000-01-11 14:10, End - 2000-01-11 22:55
+Pairing 1219 (BASE1) : Start - 2000-01-12 14:10, End - 2000-01-12 22:55
+Pairing 150 (BASE1) : Start - 2000-01-15 22:02, End - 2000-01-17 13:05
+Pairing 1133 (BASE1) : Start - 2000-01-21 22:02, End - 2000-01-24 14:53
+Pairing 86 (BASE1) : Start - 2000-01-31 04:14, End - 2000-01-31 14:12
+
+ 
+Employee 29: 84.0 Credited Flying Time (In Hours) 
+Pairing 468 (BASE1) : Start - 2000-01-02 03:13, End - 2000-01-02 13:10
+Pairing 1190 (BASE1) : Start - 2000-01-04 11:50, End - 2000-01-04 20:33
+Pairing 752 (BASE1) : Start - 2000-01-07 18:04, End - 2000-01-09 01:53
+Pairing 907 (BASE1) : Start - 2000-01-11 22:02, End - 2000-01-14 22:18
+Pairing 231 (BASE1) : Start - 2000-01-20 16:43, End - 2000-01-21 02:03
+Pairing 293 (BASE1) : Start - 2000-01-22 11:00, End - 2000-01-22 20:15
+Pairing 827 (BASE1) : Start - 2000-01-25 20:43, End - 2000-01-27 23:18
+
+ 
+Employee 30: 84.30000000000001 Credited Flying Time (In Hours) 
+Pairing 650 (BASE1) : Start - 2000-01-01 11:00, End - 2000-01-02 12:45
+Pairing 324 (BASE1) : Start - 2000-01-03 03:13, End - 2000-01-03 13:10
+Pairing 747 (BASE1) : Start - 2000-01-07 16:22, End - 2000-01-08 01:10
+Pairing 999 (BASE1) : Start - 2000-01-08 14:10, End - 2000-01-08 22:55
+Pairing 1328 (BASE1) : Start - 2000-01-10 16:39, End - 2000-01-11 01:13
+Pairing 880 (BASE1) : Start - 2000-01-11 12:24, End - 2000-01-11 20:41
+Pairing 1224 (BASE1) : Start - 2000-01-12 12:05, End - 2000-01-13 18:26
+Employee Vacation Request: 2000-01-15 00:00 ==> 2000-01-25 23:59
+Pairing 451 (BASE1) : Start - 2000-01-26 16:21, End - 2000-01-27 02:24
+Pairing 60 (BASE1) : Start - 2000-01-28 00:47, End - 2000-01-30 18:03
+
+ 
+Employee 31: 81.39999999999999 Credited Flying Time (In Hours) 
+Pairing 280 (BASE1) : Start - 2000-01-06 16:21, End - 2000-01-07 02:24
+Pairing 1031 (BASE1) : Start - 2000-01-09 12:06, End - 2000-01-09 19:26
+Pairing 1323 (BASE1) : Start - 2000-01-10 22:25, End - 2000-01-11 22:22
+Pairing 1214 (BASE1) : Start - 2000-01-12 11:00, End - 2000-01-12 20:33
+Pairing 1116 (BASE1) : Start - 2000-01-21 12:24, End - 2000-01-21 20:41
+Pairing 581 (BASE1) : Start - 2000-01-23 12:21, End - 2000-01-23 20:33
+Pairing 1148 (BASE1) : Start - 2000-01-24 16:42, End - 2000-01-25 22:17
+Pairing 352 (BASE1) : Start - 2000-01-27 23:30, End - 2000-01-30 18:08
+
+ 
+Employee 32: 79.88333333333334 Credited Flying Time (In Hours) 
+Pairing 1186 (BASE1) : Start - 2000-01-04 02:55, End - 2000-01-04 11:02
+Pairing 1252 (BASE1) : Start - 2000-01-05 16:42, End - 2000-01-06 22:17
+Pairing 1033 (BASE1) : Start - 2000-01-09 14:10, End - 2000-01-09 22:55
+Pairing 899 (BASE1) : Start - 2000-01-11 11:00, End - 2000-01-13 12:45
+Pairing 146 (BASE1) : Start - 2000-01-15 16:39, End - 2000-01-16 01:13
+Pairing 236 (BASE1) : Start - 2000-01-20 02:23, End - 2000-01-22 15:22
+Pairing 814 (BASE1) : Start - 2000-01-25 11:00, End - 2000-01-25 20:15
+
+ 
+Employee 33: 81.21666666666667 Credited Flying Time (In Hours) 
+Pairing 1010 (BASE1) : Start - 2000-01-08 16:43, End - 2000-01-09 02:03
+Pairing 1336 (BASE1) : Start - 2000-01-10 22:30, End - 2000-01-13 00:30
+Pairing 145 (BASE1) : Start - 2000-01-15 16:21, End - 2000-01-16 02:24
+Pairing 391 (BASE1) : Start - 2000-01-16 16:39, End - 2000-01-17 01:13
+Pairing 1404 (BASE1) : Start - 2000-01-18 03:13, End - 2000-01-18 13:10
+Pairing 931 (BASE1) : Start - 2000-01-19 03:13, End - 2000-01-19 13:10
+Pairing 314 (BASE1) : Start - 2000-01-22 18:04, End - 2000-01-24 01:53
+Pairing 443 (BASE1) : Start - 2000-01-26 14:21, End - 2000-01-26 22:26
+Pairing 1441 (BASE1) : Start - 2000-01-30 13:09, End - 2000-01-30 23:49
+Pairing 90 (BASE1) : Start - 2000-01-31 15:10, End - 2000-02-01 02:09
+
+ 
+Employee 34: 81.63333333333335 Credited Flying Time (In Hours) 
+Pairing 657 (BASE1) : Start - 2000-01-01 14:19, End - 2000-01-02 01:10
+Pairing 1253 (BASE1) : Start - 2000-01-05 12:05, End - 2000-01-06 18:23
+Pairing 1327 (BASE1) : Start - 2000-01-10 16:22, End - 2000-01-11 01:10
+Pairing 607 (BASE1) : Start - 2000-01-17 12:24, End - 2000-01-17 20:41
+Pairing 1419 (BASE1) : Start - 2000-01-18 23:47, End - 2000-01-20 13:05
+Pairing 1117 (BASE1) : Start - 2000-01-21 20:33, End - 2000-01-22 03:21
+Pairing 825 (BASE1) : Start - 2000-01-25 14:19, End - 2000-01-26 01:10
+Pairing 359 (BASE1) : Start - 2000-01-27 17:39, End - 2000-01-28 03:19
+Pairing 20 (BASE1) : Start - 2000-01-29 17:22, End - 2000-01-30 03:19
+Pairing 1443 (BASE1) : Start - 2000-01-30 15:19, End - 2000-01-31 02:10
+
+ 
+Employee 35: 84.01666666666665 Credited Flying Time (In Hours) 
+Pairing 1248 (BASE1) : Start - 2000-01-05 03:13, End - 2000-01-05 13:10
+Employee Vacation Request: 2000-01-10 00:00 ==> 2000-01-13 23:59
+Pairing 130 (BASE1) : Start - 2000-01-14 22:02, End - 2000-01-17 14:53
+Pairing 1407 (BASE1) : Start - 2000-01-18 12:00, End - 2000-01-18 18:45
+Pairing 943 (BASE1) : Start - 2000-01-19 16:22, End - 2000-01-20 01:10
+Pairing 225 (BASE1) : Start - 2000-01-20 12:21, End - 2000-01-20 20:33
+Pairing 1155 (BASE1) : Start - 2000-01-24 11:00, End - 2000-01-26 13:21
+Pairing 58 (BASE1) : Start - 2000-01-28 03:20, End - 2000-01-31 01:33
+
+ 
+Employee 36: 82.29999999999998 Credited Flying Time (In Hours) 
+Pairing 656 (BASE1) : Start - 2000-01-01 18:20, End - 2000-01-02 00:30
+Pairing 1250 (BASE1) : Start - 2000-01-05 02:55, End - 2000-01-05 11:02
+Pairing 1266 (BASE1) : Start - 2000-01-05 22:21, End - 2000-01-08 18:26
+Employee Vacation Request: 2000-01-09 00:00 ==> 2000-01-12 23:59
+Pairing 508 (BASE1) : Start - 2000-01-13 14:31, End - 2000-01-15 12:45
+Pairing 367 (BASE1) : Start - 2000-01-27 15:10, End - 2000-01-28 02:09
+Pairing 28 (BASE1) : Start - 2000-01-29 14:40, End - 2000-02-01 02:12
+
+ 
+Employee 37: 84.85 Credited Flying Time (In Hours) 
+Pairing 995 (BASE1) : Start - 2000-01-08 14:21, End - 2000-01-08 22:26
+Pairing 1043 (BASE1) : Start - 2000-01-09 14:19, End - 2000-01-10 01:10
+Pairing 905 (BASE1) : Start - 2000-01-11 22:30, End - 2000-01-14 17:13
+Pairing 944 (BASE1) : Start - 2000-01-19 16:21, End - 2000-01-20 02:24
+Pairing 584 (BASE1) : Start - 2000-01-23 11:00, End - 2000-01-24 15:22
+Pairing 810 (BASE1) : Start - 2000-01-25 12:24, End - 2000-01-25 20:41
+Pairing 75 (BASE1) : Start - 2000-01-28 13:09, End - 2000-01-28 21:44
+Pairing 12 (BASE1) : Start - 2000-01-29 15:23, End - 2000-01-29 23:27
+Pairing 1426 (BASE1) : Start - 2000-01-30 13:21, End - 2000-01-31 14:24
+
+ 
+Employee 38: 83.43333333333334 Credited Flying Time (In Hours) 
+Pairing 1192 (BASE1) : Start - 2000-01-04 12:21, End - 2000-01-04 20:57
+Pairing 1260 (BASE1) : Start - 2000-01-05 22:33, End - 2000-01-07 17:13
+Pairing 1000 (BASE1) : Start - 2000-01-08 12:21, End - 2000-01-08 20:57
+Pairing 1315 (BASE1) : Start - 2000-01-10 14:21, End - 2000-01-10 22:26
+Pairing 155 (BASE1) : Start - 2000-01-15 02:24, End - 2000-01-18 15:41
+Pairing 1119 (BASE1) : Start - 2000-01-21 12:00, End - 2000-01-22 18:23
+Pairing 1428 (BASE1) : Start - 2000-01-30 12:00, End - 2000-01-31 16:32
+
+ 
+Employee 39: 80.65000000000002 Credited Flying Time (In Hours) 
+Pairing 994 (BASE1) : Start - 2000-01-08 12:06, End - 2000-01-08 19:26
+Pairing 1235 (BASE1) : Start - 2000-01-12 02:23, End - 2000-01-14 00:19
+Pairing 129 (BASE1) : Start - 2000-01-14 23:47, End - 2000-01-17 13:21
+Pairing 949 (BASE1) : Start - 2000-01-19 22:02, End - 2000-01-21 13:05
+Pairing 303 (BASE1) : Start - 2000-01-22 20:33, End - 2000-01-23 03:21
+Pairing 815 (BASE1) : Start - 2000-01-25 02:55, End - 2000-01-25 11:02
+Pairing 1433 (BASE1) : Start - 2000-01-30 03:23, End - 2000-02-01 01:33
+
+ 
+Employee 40: 64.86666666666667 Credited Flying Time (In Hours) 
+Pairing 676 (BASE1) : Start - 2000-01-01 22:02, End - 2000-01-05 00:30
+Pairing 1038 (BASE1) : Start - 2000-01-09 16:42, End - 2000-01-10 22:17
+Pairing 908 (BASE1) : Start - 2000-01-11 22:33, End - 2000-01-15 00:30
+Employee Vacation Request: 2000-01-18 00:00 ==> 2000-01-31 23:59
+
+ 
+Employee 41: 81.00000000000001 Credited Flying Time (In Hours) 
+Pairing 491 (BASE1) : Start - 2000-01-02 22:30, End - 2000-01-06 00:30
+Pairing 739 (BASE1) : Start - 2000-01-07 16:42, End - 2000-01-08 22:17
+Pairing 1310 (BASE1) : Start - 2000-01-10 03:13, End - 2000-01-10 13:10
+Pairing 894 (BASE1) : Start - 2000-01-11 16:22, End - 2000-01-12 01:10
+Pairing 514 (BASE1) : Start - 2000-01-13 12:21, End - 2000-01-16 20:57
+Employee Vacation Request: 2000-01-19 00:00 ==> 2000-01-30 23:59
+Pairing 95 (BASE1) : Start - 2000-01-31 13:24, End - 2000-01-31 21:21
+
+ 
+Employee 42: 84.06666666666668 Credited Flying Time (In Hours) 
+Pairing 292 (BASE1) : Start - 2000-01-06 22:30, End - 2000-01-10 00:30
+Pairing 388 (BASE1) : Start - 2000-01-16 16:21, End - 2000-01-17 02:24
+Pairing 237 (BASE1) : Start - 2000-01-20 11:50, End - 2000-01-22 17:13
+Pairing 1162 (BASE1) : Start - 2000-01-24 23:47, End - 2000-01-27 14:24
+Pairing 1435 (BASE1) : Start - 2000-01-30 21:31, End - 2000-02-01 03:19
+
+ 
+Employee 43: 76.51666666666667 Credited Flying Time (In Hours) 
+Pairing 645 (BASE1) : Start - 2000-01-01 20:42, End - 2000-01-02 14:53
+Pairing 1013 (BASE1) : Start - 2000-01-08 22:25, End - 2000-01-10 11:05
+Pairing 104 (BASE1) : Start - 2000-01-14 14:10, End - 2000-01-15 01:10
+Pairing 156 (BASE1) : Start - 2000-01-15 18:04, End - 2000-01-18 14:53
+Pairing 1112 (BASE1) : Start - 2000-01-21 11:50, End - 2000-01-21 20:33
+Pairing 447 (BASE1) : Start - 2000-01-26 16:42, End - 2000-01-27 23:35
+Pairing 67 (BASE1) : Start - 2000-01-28 17:39, End - 2000-01-29 03:19
+
+ 
+Employee 44: 84.04999999999997 Credited Flying Time (In Hours) 
+Pairing 340 (BASE1) : Start - 2000-01-03 23:47, End - 2000-01-05 13:05
+Pairing 1042 (BASE1) : Start - 2000-01-09 16:43, End - 2000-01-10 02:03
+Pairing 115 (BASE1) : Start - 2000-01-14 12:00, End - 2000-01-15 18:23
+Pairing 392 (BASE1) : Start - 2000-01-16 22:30, End - 2000-01-18 22:18
+Pairing 598 (BASE1) : Start - 2000-01-23 02:20, End - 2000-01-25 00:30
+Pairing 821 (BASE1) : Start - 2000-01-25 14:22, End - 2000-01-26 22:18
+Pairing 355 (BASE1) : Start - 2000-01-27 13:13, End - 2000-01-27 21:41
+
+ 
+Employee 45: 72.58333333333331 Credited Flying Time (In Hours) 
+Pairing 489 (BASE1) : Start - 2000-01-02 22:02, End - 2000-01-05 14:53
+Pairing 889 (BASE1) : Start - 2000-01-11 12:00, End - 2000-01-12 19:27
+Pairing 937 (BASE1) : Start - 2000-01-19 14:10, End - 2000-01-19 22:55
+Pairing 244 (BASE1) : Start - 2000-01-20 20:43, End - 2000-01-23 16:57
+Pairing 15 (BASE1) : Start - 2000-01-29 15:10, End - 2000-01-30 02:09
+
+ 
+Employee 46: 79.56666666666666 Credited Flying Time (In Hours) 
+Pairing 1213 (BASE1) : Start - 2000-01-04 11:00, End - 2000-01-08 00:30
+Pairing 1325 (BASE1) : Start - 2000-01-10 16:43, End - 2000-01-11 02:03
+Pairing 121 (BASE1) : Start - 2000-01-14 14:19, End - 2000-01-15 01:10
+Pairing 622 (BASE1) : Start - 2000-01-17 22:33, End - 2000-01-19 17:13
+Pairing 1157 (BASE1) : Start - 2000-01-24 02:20, End - 2000-01-26 17:13
+Pairing 1440 (BASE1) : Start - 2000-01-30 04:14, End - 2000-01-30 14:12
+
+ 
+Employee 47: 75.96666666666667 Credited Flying Time (In Hours) 
+Pairing 667 (BASE1) : Start - 2000-01-01 14:31, End - 2000-01-03 00:19
+Pairing 1029 (BASE1) : Start - 2000-01-09 12:05, End - 2000-01-09 21:07
+Pairing 1314 (BASE1) : Start - 2000-01-10 14:10, End - 2000-01-10 22:55
+Pairing 494 (BASE1) : Start - 2000-01-13 12:24, End - 2000-01-13 20:41
+Pairing 123 (BASE1) : Start - 2000-01-14 22:33, End - 2000-01-16 17:13
+Pairing 1113 (BASE1) : Start - 2000-01-21 02:55, End - 2000-01-21 11:02
+Pairing 1138 (BASE1) : Start - 2000-01-24 12:00, End - 2000-01-24 18:45
+Pairing 452 (BASE1) : Start - 2000-01-26 16:39, End - 2000-01-27 01:13
+Pairing 22 (BASE1) : Start - 2000-01-29 13:09, End - 2000-01-29 21:44
+
+ 
+Employee 48: 81.26666666666668 Credited Flying Time (In Hours) 
+Pairing 642 (BASE1) : Start - 2000-01-01 13:45, End - 2000-01-02 18:26
+Pairing 743 (BASE1) : Start - 2000-01-07 12:01, End - 2000-01-08 20:39
+Pairing 1044 (BASE1) : Start - 2000-01-09 16:22, End - 2000-01-10 01:10
+Pairing 393 (BASE1) : Start - 2000-01-16 22:02, End - 2000-01-18 13:05
+Pairing 294 (BASE1) : Start - 2000-01-22 14:21, End - 2000-01-22 22:26
+Pairing 1163 (BASE1) : Start - 2000-01-24 20:43, End - 2000-01-28 01:27
+Pairing 77 (BASE1) : Start - 2000-01-28 15:10, End - 2000-01-29 02:09
+
+ 
+Employee 49: 81.43333333333334 Credited Flying Time (In Hours) 
+Pairing 332 (BASE1) : Start - 2000-01-03 11:00, End - 2000-01-04 20:15
+Pairing 1256 (BASE1) : Start - 2000-01-05 16:39, End - 2000-01-06 01:13
+Pairing 1048 (BASE1) : Start - 2000-01-09 20:43, End - 2000-01-11 20:57
+Pairing 515 (BASE1) : Start - 2000-01-13 22:30, End - 2000-01-16 00:19
+Pairing 614 (BASE1) : Start - 2000-01-17 20:33, End - 2000-01-18 03:21
+Pairing 1156 (BASE1) : Start - 2000-01-24 22:25, End - 2000-01-26 15:41
+Pairing 364 (BASE1) : Start - 2000-01-27 15:19, End - 2000-01-28 02:10
+
+ 
+Employee 50: 79.41666666666667 Credited Flying Time (In Hours) 
+Pairing 636 (BASE1) : Start - 2000-01-01 14:10, End - 2000-01-01 22:55
+Pairing 1244 (BASE1) : Start - 2000-01-05 11:50, End - 2000-01-05 20:33
+Pairing 1014 (BASE1) : Start - 2000-01-08 22:21, End - 2000-01-10 13:05
+Pairing 1222 (BASE1) : Start - 2000-01-12 02:55, End - 2000-01-12 11:02
+Pairing 627 (BASE1) : Start - 2000-01-17 22:00, End - 2000-01-20 17:13
+Pairing 305 (BASE1) : Start - 2000-01-22 11:50, End - 2000-01-23 18:23
+Pairing 819 (BASE1) : Start - 2000-01-25 16:42, End - 2000-01-26 22:17
+
+ 
+Employee 51: 81.18333333333332 Credited Flying Time (In Hours) 
+Pairing 1259 (BASE1) : Start - 2000-01-05 20:12, End - 2000-01-07 13:21
+Pairing 140 (BASE1) : Start - 2000-01-15 20:33, End - 2000-01-16 03:21
+Pairing 380 (BASE1) : Start - 2000-01-16 14:10, End - 2000-01-16 22:55
+Pairing 617 (BASE1) : Start - 2000-01-17 16:22, End - 2000-01-18 01:10
+Pairing 946 (BASE1) : Start - 2000-01-19 22:25, End - 2000-01-21 15:41
+Pairing 599 (BASE1) : Start - 2000-01-23 18:04, End - 2000-01-25 01:53
+Pairing 11 (BASE1) : Start - 2000-01-29 12:00, End - 2000-01-31 18:03
+
+ 
+Employee 52: 79.68333333333334 Credited Flying Time (In Hours) 
+Pairing 270 (BASE1) : Start - 2000-01-06 02:55, End - 2000-01-06 11:02
+Pairing 1322 (BASE1) : Start - 2000-01-10 16:42, End - 2000-01-11 22:17
+Pairing 138 (BASE1) : Start - 2000-01-15 12:06, End - 2000-01-15 19:26
+Pairing 948 (BASE1) : Start - 2000-01-19 02:20, End - 2000-01-21 13:21
+Pairing 822 (BASE1) : Start - 2000-01-25 16:43, End - 2000-01-26 02:03
+Pairing 350 (BASE1) : Start - 2000-01-27 02:24, End - 2000-01-30 01:27
+
+ 
+Employee 53: 57.366666666666674 Credited Flying Time (In Hours) 
+Employee Vacation Request: 2000-01-03 00:00 ==> 2000-01-17 23:59
+Pairing 753 (BASE1) : Start - 2000-01-07 14:22, End - 2000-01-09 00:19
+Pairing 1420 (BASE1) : Start - 2000-01-18 22:30, End - 2000-01-20 20:39
+Pairing 297 (BASE1) : Start - 2000-01-22 12:24, End - 2000-01-22 20:41
+Pairing 459 (BASE1) : Start - 2000-01-26 22:33, End - 2000-01-29 18:03
+
+ 
+Employee 54: 84.4 Credited Flying Time (In Hours) 
+Pairing 1050 (BASE1) : Start - 2000-01-09 14:22, End - 2000-01-11 00:19
+Pairing 131 (BASE1) : Start - 2000-01-14 20:43, End - 2000-01-17 12:45
+Pairing 230 (BASE1) : Start - 2000-01-20 20:33, End - 2000-01-21 03:21
+Pairing 1161 (BASE1) : Start - 2000-01-24 16:44, End - 2000-01-27 23:18
+Pairing 63 (BASE1) : Start - 2000-01-28 15:27, End - 2000-01-29 23:18
+
+ 
+Employee 55: 43.483333333333334 Credited Flying Time (In Hours) 
+Pairing 1267 (BASE1) : Start - 2000-01-05 22:30, End - 2000-01-08 22:18
+Pairing 110 (BASE1) : Start - 2000-01-14 02:55, End - 2000-01-14 11:02
+Pairing 378 (BASE1) : Start - 2000-01-16 12:06, End - 2000-01-16 19:26
+Pairing 1403 (BASE1) : Start - 2000-01-18 14:21, End - 2000-01-18 22:26
+Employee Vacation Request: 2000-01-24 00:00 ==> 2000-01-31 23:59
+
+ 
+Employee 56: 83.33333333333334 Credited Flying Time (In Hours) 
+Pairing 1200 (BASE1) : Start - 2000-01-04 16:22, End - 2000-01-05 01:10
+Pairing 1022 (BASE1) : Start - 2000-01-08 23:47, End - 2000-01-12 00:30
+Pairing 1218 (BASE1) : Start - 2000-01-12 12:24, End - 2000-01-12 20:41
+Pairing 148 (BASE1) : Start - 2000-01-15 14:19, End - 2000-01-16 01:10
+Pairing 457 (BASE1) : Start - 2000-01-26 02:23, End - 2000-01-28 23:49
+Pairing 26 (BASE1) : Start - 2000-01-29 12:50, End - 2000-01-29 21:35
+Pairing 87 (BASE1) : Start - 2000-01-31 15:31, End - 2000-01-31 23:18
+
+ 
+Employee 57: 84.48333333333335 Credited Flying Time (In Hours) 
+Pairing 640 (BASE1) : Start - 2000-01-01 12:00, End - 2000-01-01 18:45
+Pairing 487 (BASE1) : Start - 2000-01-02 18:04, End - 2000-01-04 01:53
+Pairing 1243 (BASE1) : Start - 2000-01-05 12:06, End - 2000-01-05 19:26
+Pairing 1006 (BASE1) : Start - 2000-01-08 20:33, End - 2000-01-09 03:21
+Employee Vacation Request: 2000-01-12 00:00 ==> 2000-01-17 23:59
+Pairing 1413 (BASE1) : Start - 2000-01-18 16:21, End - 2000-01-19 02:24
+Pairing 1120 (BASE1) : Start - 2000-01-21 16:42, End - 2000-01-22 22:17
+Pairing 595 (BASE1) : Start - 2000-01-23 22:00, End - 2000-01-25 14:53
+Pairing 74 (BASE1) : Start - 2000-01-28 15:23, End - 2000-01-28 23:27
+Pairing 1442 (BASE1) : Start - 2000-01-30 15:10, End - 2000-01-31 02:09
+
+ 
+Employee 58: 77.85 Credited Flying Time (In Hours) 
+Pairing 479 (BASE1) : Start - 2000-01-02 16:39, End - 2000-01-03 01:13
+Pairing 1198 (BASE1) : Start - 2000-01-04 16:21, End - 2000-01-05 02:24
+Employee Vacation Request: 2000-01-06 00:00 ==> 2000-01-08 23:59
+Pairing 1321 (BASE1) : Start - 2000-01-10 20:33, End - 2000-01-11 03:21
+Pairing 891 (BASE1) : Start - 2000-01-11 20:33, End - 2000-01-12 03:21
+Pairing 1229 (BASE1) : Start - 2000-01-12 16:21, End - 2000-01-13 02:24
+Pairing 496 (BASE1) : Start - 2000-01-13 14:10, End - 2000-01-13 22:55
+Pairing 612 (BASE1) : Start - 2000-01-17 02:55, End - 2000-01-17 11:02
+Pairing 246 (BASE1) : Start - 2000-01-20 23:47, End - 2000-01-23 22:18
+Pairing 18 (BASE1) : Start - 2000-01-29 19:04, End - 2000-01-30 02:14
+
+ 
+Employee 59: 58.51666666666667 Credited Flying Time (In Hours) 
+Pairing 665 (BASE1) : Start - 2000-01-01 22:25, End - 2000-01-03 15:41
+Pairing 1001 (BASE1) : Start - 2000-01-08 03:13, End - 2000-01-08 13:10
+Pairing 1237 (BASE1) : Start - 2000-01-12 20:43, End - 2000-01-15 17:13
+Employee Vacation Request: 2000-01-17 00:00 ==> 2000-01-25 23:59
+Pairing 461 (BASE1) : Start - 2000-01-26 22:21, End - 2000-01-29 16:18
+
+ 
+Employee 60: 77.76666666666668 Credited Flying Time (In Hours) 
+Pairing 285 (BASE1) : Start - 2000-01-06 22:25, End - 2000-01-08 15:41
+Pairing 1238 (BASE1) : Start - 2000-01-12 11:50, End - 2000-01-15 18:26
+Pairing 628 (BASE1) : Start - 2000-01-17 12:05, End - 2000-01-20 20:15
+Pairing 299 (BASE1) : Start - 2000-01-22 12:21, End - 2000-01-22 20:33
+Pairing 438 (BASE1) : Start - 2000-01-26 02:24, End - 2000-01-26 11:02
+
+ 
+Employee 61: 84.70000000000002 Credited Flying Time (In Hours) 
+Pairing 674 (BASE1) : Start - 2000-01-01 14:33, End - 2000-01-04 00:19
+Pairing 1005 (BASE1) : Start - 2000-01-08 12:00, End - 2000-01-09 18:23
+Pairing 893 (BASE1) : Start - 2000-01-11 14:19, End - 2000-01-12 01:10
+Pairing 398 (BASE1) : Start - 2000-01-16 12:01, End - 2000-01-19 00:30
+Pairing 1122 (BASE1) : Start - 2000-01-21 16:43, End - 2000-01-22 02:03
+Pairing 578 (BASE1) : Start - 2000-01-23 12:24, End - 2000-01-23 20:41
+Pairing 807 (BASE1) : Start - 2000-01-25 03:13, End - 2000-01-25 13:10
+Pairing 456 (BASE1) : Start - 2000-01-26 22:25, End - 2000-01-28 12:10
+
+ 
+Employee 62: 51.7 Credited Flying Time (In Hours) 
+Pairing 660 (BASE1) : Start - 2000-01-01 16:39, End - 2000-01-02 01:13
+Pairing 477 (BASE1) : Start - 2000-01-02 12:01, End - 2000-01-03 13:21
+Pairing 1015 (BASE1) : Start - 2000-01-08 22:34, End - 2000-01-10 17:13
+Pairing 504 (BASE1) : Start - 2000-01-13 14:19, End - 2000-01-14 01:10
+Pairing 108 (BASE1) : Start - 2000-01-14 12:24, End - 2000-01-14 20:41
+Pairing 136 (BASE1) : Start - 2000-01-15 14:21, End - 2000-01-15 22:26
+Employee Vacation Request: 2000-01-16 00:00 ==> 2000-01-28 23:59
+
+ 
+Employee 63: 67.38333333333337 Credited Flying Time (In Hours) 
+Pairing 1206 (BASE1) : Start - 2000-01-04 02:20, End - 2000-01-06 17:13
+Pairing 126 (BASE1) : Start - 2000-01-14 18:04, End - 2000-01-16 01:53
+Pairing 307 (BASE1) : Start - 2000-01-22 02:20, End - 2000-01-23 22:24
+Pairing 82 (BASE1) : Start - 2000-01-28 23:02, End - 2000-01-30 03:32
+Pairing 1447 (BASE1) : Start - 2000-01-30 19:04, End - 2000-01-31 02:14
+
+ 
+Employee 64: 84.48333333333333 Credited Flying Time (In Hours) 
+Pairing 484 (BASE1) : Start - 2000-01-02 02:22, End - 2000-01-04 14:53
+Pairing 1257 (BASE1) : Start - 2000-01-05 16:21, End - 2000-01-06 02:24
+Pairing 273 (BASE1) : Start - 2000-01-06 12:24, End - 2000-01-06 20:41
+Pairing 735 (BASE1) : Start - 2000-01-07 12:21, End - 2000-01-07 20:57
+Employee Vacation Request: 2000-01-08 00:00 ==> 2000-01-18 23:59
+Pairing 228 (BASE1) : Start - 2000-01-20 11:00, End - 2000-01-21 19:27
+Pairing 311 (BASE1) : Start - 2000-01-22 16:39, End - 2000-01-23 01:13
+Pairing 577 (BASE1) : Start - 2000-01-23 14:10, End - 2000-01-23 22:55
+Pairing 363 (BASE1) : Start - 2000-01-27 19:04, End - 2000-01-28 02:14
+Pairing 10 (BASE1) : Start - 2000-01-29 13:21, End - 2000-01-30 14:24
+
+ 
+Employee 65: 74.93333333333334 Credited Flying Time (In Hours) 
+Pairing 478 (BASE1) : Start - 2000-01-02 03:04, End - 2000-01-03 12:45
+Pairing 1189 (BASE1) : Start - 2000-01-04 14:10, End - 2000-01-04 22:55
+Pairing 1018 (BASE1) : Start - 2000-01-08 02:20, End - 2000-01-11 15:41
+Pairing 386 (BASE1) : Start - 2000-01-16 11:50, End - 2000-01-17 18:23
+Pairing 1118 (BASE1) : Start - 2000-01-21 11:00, End - 2000-01-22 12:45
+Pairing 1141 (BASE1) : Start - 2000-01-24 03:13, End - 2000-01-24 13:10
+Pairing 24 (BASE1) : Start - 2000-01-29 03:55, End - 2000-01-29 12:03
+
+ 
+Employee 66: 81.08333333333334 Credited Flying Time (In Hours) 
+Pairing 465 (BASE1) : Start - 2000-01-02 14:21, End - 2000-01-02 22:26
+Pairing 1185 (BASE1) : Start - 2000-01-04 03:13, End - 2000-01-04 13:10
+Pairing 1046 (BASE1) : Start - 2000-01-09 22:02, End - 2000-01-11 13:05
+Pairing 1216 (BASE1) : Start - 2000-01-12 03:13, End - 2000-01-12 13:10
+Pairing 396 (BASE1) : Start - 2000-01-16 02:24, End - 2000-01-19 11:05
+Pairing 240 (BASE1) : Start - 2000-01-20 16:42, End - 2000-01-22 01:53
+Pairing 828 (BASE1) : Start - 2000-01-25 23:47, End - 2000-01-27 16:28
+Pairing 1445 (BASE1) : Start - 2000-01-30 17:21, End - 2000-01-31 03:23
+
+ 
+Employee 67: 66.02499999999999 Credited Flying Time (In Hours) 
+Pairing 1318 (BASE1) : Start - 2000-01-10 12:05, End - 2000-01-10 21:07
+Pairing 898 (BASE1) : Start - 2000-01-11 22:25, End - 2000-01-13 11:05
+Pairing 377 (BASE1) : Start - 2000-01-16 12:24, End - 2000-01-16 20:41
+Pairing 631 (BASE1) : Start - 2000-01-17 20:43, End - 2000-01-20 21:07
+Pairing 455 (BASE1) : Start - 2000-01-26 12:00, End - 2000-01-28 18:08
+
+ 
+Employee 68: 73.39999999999998 Credited Flying Time (In Hours) 
+Pairing 330 (BASE1) : Start - 2000-01-03 16:42, End - 2000-01-04 22:17
+Pairing 1011 (BASE1) : Start - 2000-01-08 16:21, End - 2000-01-09 02:24
+Pairing 124 (BASE1) : Start - 2000-01-14 22:25, End - 2000-01-16 11:05
+Pairing 620 (BASE1) : Start - 2000-01-17 16:43, End - 2000-01-18 02:03
+Pairing 232 (BASE1) : Start - 2000-01-20 18:00, End - 2000-01-21 00:50
+Pairing 596 (BASE1) : Start - 2000-01-23 22:25, End - 2000-01-25 22:18
+Pairing 100 (BASE1) : Start - 2000-01-31 17:39, End - 2000-02-01 02:12
+
+ 
+Employee 69: 50.1 Credited Flying Time (In Hours) 
+Pairing 1254 (BASE1) : Start - 2000-01-05 14:19, End - 2000-01-06 01:10
+Pairing 281 (BASE1) : Start - 2000-01-06 14:19, End - 2000-01-07 01:10
+Pairing 745 (BASE1) : Start - 2000-01-07 16:43, End - 2000-01-08 02:03
+Pairing 1331 (BASE1) : Start - 2000-01-10 02:20, End - 2000-01-12 17:13
+Employee Vacation Request: 2000-01-14 00:00 ==> 2000-01-27 23:59
+Pairing 80 (BASE1) : Start - 2000-01-28 15:19, End - 2000-01-29 02:10
+
+ 
+Employee 70: 82.06666666666668 Credited Flying Time (In Hours) 
+Pairing 287 (BASE1) : Start - 2000-01-06 02:20, End - 2000-01-08 14:53
+Pairing 1316 (BASE1) : Start - 2000-01-10 12:21, End - 2000-01-10 20:33
+Pairing 493 (BASE1) : Start - 2000-01-13 11:00, End - 2000-01-13 20:33
+Pairing 379 (BASE1) : Start - 2000-01-16 14:21, End - 2000-01-16 22:26
+Pairing 624 (BASE1) : Start - 2000-01-17 16:42, End - 2000-01-19 01:06
+Pairing 1110 (BASE1) : Start - 2000-01-21 14:10, End - 2000-01-21 22:55
+Pairing 315 (BASE1) : Start - 2000-01-22 14:31, End - 2000-01-24 00:19
+Pairing 1444 (BASE1) : Start - 2000-01-30 17:39, End - 2000-01-31 03:19
+
+ 
+Employee 71: 73.73333333333333 Credited Flying Time (In Hours) 
+Pairing 337 (BASE1) : Start - 2000-01-03 16:43, End - 2000-01-04 02:03
+Pairing 1251 (BASE1) : Start - 2000-01-05 11:00, End - 2000-01-06 18:26
+Pairing 733 (BASE1) : Start - 2000-01-07 14:10, End - 2000-01-07 22:55
+Pairing 1045 (BASE1) : Start - 2000-01-09 22:25, End - 2000-01-11 22:18
+Pairing 512 (BASE1) : Start - 2000-01-13 02:24, End - 2000-01-15 00:19
+Pairing 387 (BASE1) : Start - 2000-01-16 16:43, End - 2000-01-17 02:03
+Pairing 69 (BASE1) : Start - 2000-01-28 04:14, End - 2000-01-28 14:12
+
+ 
+Employee 72: 83.35 Credited Flying Time (In Hours) 
+Pairing 475 (BASE1) : Start - 2000-01-02 16:42, End - 2000-01-03 22:17
+Pairing 732 (BASE1) : Start - 2000-01-07 12:06, End - 2000-01-07 19:26
+Pairing 1028 (BASE1) : Start - 2000-01-09 03:13, End - 2000-01-09 13:10
+Pairing 506 (BASE1) : Start - 2000-01-13 16:21, End - 2000-01-14 02:24
+Pairing 128 (BASE1) : Start - 2000-01-14 20:12, End - 2000-01-17 22:18
+Pairing 317 (BASE1) : Start - 2000-01-22 20:43, End - 2000-01-25 15:12
+Pairing 84 (BASE1) : Start - 2000-01-31 13:21, End - 2000-01-31 23:53
+
+ 
+Employee 73: 74.33333333333333 Credited Flying Time (In Hours) 
+Pairing 1236 (BASE1) : Start - 2000-01-12 22:30, End - 2000-01-15 20:15
+Pairing 947 (BASE1) : Start - 2000-01-19 02:24, End - 2000-01-21 20:57
+Pairing 585 (BASE1) : Start - 2000-01-23 12:00, End - 2000-01-24 19:27
+Pairing 462 (BASE1) : Start - 2000-01-26 22:00, End - 2000-01-29 02:08
+
+ 
+Employee 74: 44.79999999999999 Credited Flying Time (In Hours) 
+Pairing 476 (BASE1) : Start - 2000-01-02 20:33, End - 2000-01-03 03:21
+Pairing 1247 (BASE1) : Start - 2000-01-05 02:23, End - 2000-01-05 22:55
+Pairing 736 (BASE1) : Start - 2000-01-07 11:50, End - 2000-01-07 20:33
+Employee Vacation Request: 2000-01-11 00:00 ==> 2000-01-19 23:59
+Pairing 832 (BASE1) : Start - 2000-01-25 02:20, End - 2000-01-28 03:32
+
+ 
+Employee 75: 62.38333333333333 Credited Flying Time (In Hours) 
+Pairing 671 (BASE1) : Start - 2000-01-01 16:15, End - 2000-01-04 18:26
+Pairing 1258 (BASE1) : Start - 2000-01-05 16:43, End - 2000-01-06 02:03
+Pairing 621 (BASE1) : Start - 2000-01-17 11:00, End - 2000-01-19 13:21
+Employee Vacation Request: 2000-01-23 00:00 ==> 2000-01-28 23:59
+Pairing 23 (BASE1) : Start - 2000-01-29 13:13, End - 2000-01-29 21:41
+Pairing 1448 (BASE1) : Start - 2000-01-30 17:22, End - 2000-01-31 03:19
+
+ 
+Employee 76: 81.11666666666667 Credited Flying Time (In Hours) 
+Pairing 648 (BASE1) : Start - 2000-01-01 12:21, End - 2000-01-02 13:21
+Pairing 336 (BASE1) : Start - 2000-01-03 16:22, End - 2000-01-04 01:10
+Pairing 1203 (BASE1) : Start - 2000-01-04 20:43, End - 2000-01-06 22:40
+Pairing 618 (BASE1) : Start - 2000-01-17 16:39, End - 2000-01-18 01:13
+Pairing 934 (BASE1) : Start - 2000-01-19 12:24, End - 2000-01-19 20:41
+Pairing 1145 (BASE1) : Start - 2000-01-24 12:05, End - 2000-01-24 21:07
+Pairing 68 (BASE1) : Start - 2000-01-28 19:14, End - 2000-01-29 03:32
+Pairing 4 (BASE1) : Start - 2000-01-29 21:41, End - 2000-02-01 01:53
+
+ 
+Employee 77: 66.86666666666667 Credited Flying Time (In Hours) 
+Pairing 333 (BASE1) : Start - 2000-01-03 18:04, End - 2000-01-04 01:06
+Pairing 740 (BASE1) : Start - 2000-01-07 03:04, End - 2000-01-08 12:45
+Pairing 895 (BASE1) : Start - 2000-01-11 16:21, End - 2000-01-12 02:24
+Pairing 626 (BASE1) : Start - 2000-01-17 02:20, End - 2000-01-19 00:19
+Pairing 234 (BASE1) : Start - 2000-01-20 16:21, End - 2000-01-21 02:24
+Pairing 587 (BASE1) : Start - 2000-01-23 11:50, End - 2000-01-24 18:23
+Pairing 449 (BASE1) : Start - 2000-01-26 16:43, End - 2000-01-27 02:03
+
+ 
+Employee 78: 57.283333333333324 Credited Flying Time (In Hours) 
+Pairing 482 (BASE1) : Start - 2000-01-02 16:21, End - 2000-01-03 02:24
+Pairing 346 (BASE1) : Start - 2000-01-03 20:43, End - 2000-01-06 13:21
+Employee Vacation Request: 2000-01-10 00:00 ==> 2000-01-20 23:59
+Pairing 308 (BASE1) : Start - 2000-01-22 16:43, End - 2000-01-23 02:03
+Pairing 1144 (BASE1) : Start - 2000-01-24 12:24, End - 2000-01-24 20:41
+Pairing 831 (BASE1) : Start - 2000-01-25 18:04, End - 2000-01-27 01:53
+
+ 
+Employee 79: 77.66666666666666 Credited Flying Time (In Hours) 
+Pairing 672 (BASE1) : Start - 2000-01-01 18:11, End - 2000-01-04 17:13
+Pairing 1037 (BASE1) : Start - 2000-01-09 20:33, End - 2000-01-10 03:21
+Pairing 616 (BASE1) : Start - 2000-01-17 14:19, End - 2000-01-18 01:10
+Pairing 1425 (BASE1) : Start - 2000-01-18 11:50, End - 2000-01-22 00:30
+Pairing 817 (BASE1) : Start - 2000-01-25 20:33, End - 2000-01-26 03:21
+Pairing 13 (BASE1) : Start - 2000-01-29 15:19, End - 2000-01-30 02:10
+
+ 
+Employee 80: 78.85 Credited Flying Time (In Hours) 
+Pairing 666 (BASE1) : Start - 2000-01-01 22:21, End - 2000-01-03 17:13
+Pairing 1197 (BASE1) : Start - 2000-01-04 12:05, End - 2000-01-05 20:40
+Pairing 756 (BASE1) : Start - 2000-01-07 02:24, End - 2000-01-10 01:06
+Pairing 1313 (BASE1) : Start - 2000-01-10 12:00, End - 2000-01-10 18:45
+Pairing 625 (BASE1) : Start - 2000-01-17 18:04, End - 2000-01-19 01:53
+Employee Vacation Request: 2000-01-23 00:00 ==> 2000-01-31 23:59
+Pairing 824 (BASE1) : Start - 2000-01-25 16:21, End - 2000-01-26 02:24
+
+ 
+Employee 81: 81.21666666666665 Credited Flying Time (In Hours) 
+Pairing 658 (BASE1) : Start - 2000-01-01 16:22, End - 2000-01-02 01:10
+Pairing 276 (BASE1) : Start - 2000-01-06 12:00, End - 2000-01-07 18:23
+Pairing 1004 (BASE1) : Start - 2000-01-08 16:42, End - 2000-01-09 22:17
+Pairing 900 (BASE1) : Start - 2000-01-11 22:34, End - 2000-01-13 17:13
+Pairing 117 (BASE1) : Start - 2000-01-14 16:22, End - 2000-01-15 02:18
+Pairing 385 (BASE1) : Start - 2000-01-16 16:42, End - 2000-01-17 22:17
+Pairing 940 (BASE1) : Start - 2000-01-19 03:04, End - 2000-01-20 12:45
+Employee Vacation Request: 2000-01-21 00:00 ==> 2000-01-30 23:59
+
+ 
+Employee 82: 80.01666666666668 Credited Flying Time (In Hours) 
+Pairing 480 (BASE1) : Start - 2000-01-02 14:19, End - 2000-01-03 01:10
+Pairing 286 (BASE1) : Start - 2000-01-06 22:02, End - 2000-01-08 13:05
+Pairing 153 (BASE1) : Start - 2000-01-15 14:31, End - 2000-01-17 00:19
+Pairing 1405 (BASE1) : Start - 2000-01-18 14:10, End - 2000-01-18 22:55
+Pairing 938 (BASE1) : Start - 2000-01-19 12:05, End - 2000-01-19 21:07
+Pairing 1128 (BASE1) : Start - 2000-01-21 23:47, End - 2000-01-23 13:05
+Pairing 1158 (BASE1) : Start - 2000-01-24 22:02, End - 2000-01-26 22:46
+Pairing 99 (BASE1) : Start - 2000-01-31 17:22, End - 2000-02-01 03:19
+
+ 
+Employee 83: 69.51666666666665 Credited Flying Time (In Hours) 
+Pairing 1265 (BASE1) : Start - 2000-01-05 23:47, End - 2000-01-08 20:15
+Pairing 499 (BASE1) : Start - 2000-01-13 02:55, End - 2000-01-14 13:05
+Pairing 149 (BASE1) : Start - 2000-01-15 02:20, End - 2000-01-17 17:13
+Pairing 591 (BASE1) : Start - 2000-01-23 16:22, End - 2000-01-24 01:10
+Pairing 1449 (BASE1) : Start - 2000-01-30 13:13, End - 2000-01-30 21:41
+
+ 
+Employee 84: 47.79999999999999 Credited Flying Time (In Hours) 
+Pairing 675 (BASE1) : Start - 2000-01-01 22:30, End - 2000-01-04 00:30
+Pairing 1111 (BASE1) : Start - 2000-01-21 14:21, End - 2000-01-21 22:26
+Pairing 834 (BASE1) : Start - 2000-01-25 22:30, End - 2000-01-28 02:12
+Pairing 93 (BASE1) : Start - 2000-01-31 15:19, End - 2000-02-01 02:10
+
+ 
+Employee 85: 80.91666666666669 Credited Flying Time (In Hours) 
+Pairing 638 (BASE1) : Start - 2000-01-01 12:15, End - 2000-01-01 20:29
+Pairing 269 (BASE1) : Start - 2000-01-06 11:50, End - 2000-01-06 20:33
+Pairing 997 (BASE1) : Start - 2000-01-08 11:50, End - 2000-01-08 20:33
+Pairing 892 (BASE1) : Start - 2000-01-11 12:05, End - 2000-01-12 13:21
+Pairing 630 (BASE1) : Start - 2000-01-17 23:47, End - 2000-01-20 22:18
+Pairing 1153 (BASE1) : Start - 2000-01-24 16:22, End - 2000-01-25 01:10
+Pairing 453 (BASE1) : Start - 2000-01-26 14:19, End - 2000-01-27 01:10
+Pairing 357 (BASE1) : Start - 2000-01-27 13:09, End - 2000-01-27 21:44
+Pairing 88 (BASE1) : Start - 2000-01-31 03:55, End - 2000-01-31 12:03
+
+ 
+Employee 86: 62.70000000000001 Credited Flying Time (In Hours) 
+Pairing 755 (BASE1) : Start - 2000-01-07 22:30, End - 2000-01-10 00:19
+Pairing 509 (BASE1) : Start - 2000-01-13 22:25, End - 2000-01-15 15:41
+Pairing 1127 (BASE1) : Start - 2000-01-21 02:20, End - 2000-01-23 13:21
+Pairing 1152 (BASE1) : Start - 2000-01-24 14:19, End - 2000-01-25 01:10
+Pairing 83 (BASE1) : Start - 2000-01-31 14:40, End - 2000-01-31 22:08
+
+ 
+Employee 87: 84.48333333333336 Credited Flying Time (In Hours) 
+Pairing 342 (BASE1) : Start - 2000-01-03 22:30, End - 2000-01-05 22:46
+Pairing 730 (BASE1) : Start - 2000-01-07 12:24, End - 2000-01-07 20:41
+Pairing 886 (BASE1) : Start - 2000-01-11 02:55, End - 2000-01-11 11:02
+Pairing 1223 (BASE1) : Start - 2000-01-12 02:20, End - 2000-01-13 13:21
+Pairing 245 (BASE1) : Start - 2000-01-20 22:00, End - 2000-01-23 17:13
+Pairing 348 (BASE1) : Start - 2000-01-27 23:02, End - 2000-01-30 16:09
+
+ 
+Employee 88: 58.49999999999997 Credited Flying Time (In Hours) 
+Pairing 1188 (BASE1) : Start - 2000-01-04 14:21, End - 2000-01-04 22:26
+Employee Vacation Request: 2000-01-05 00:00 ==> 2000-01-07 23:59
+Pairing 1017 (BASE1) : Start - 2000-01-08 18:04, End - 2000-01-10 01:53
+Pairing 1326 (BASE1) : Start - 2000-01-10 14:19, End - 2000-01-11 01:10
+Pairing 882 (BASE1) : Start - 2000-01-11 12:21, End - 2000-01-11 20:33
+Pairing 226 (BASE1) : Start - 2000-01-20 02:55, End - 2000-01-20 11:02
+Pairing 579 (BASE1) : Start - 2000-01-23 03:13, End - 2000-01-23 13:10
+Pairing 1159 (BASE1) : Start - 2000-01-24 22:30, End - 2000-01-26 20:40
+
+ 
+Employee 89: 58.86666666666669 Credited Flying Time (In Hours) 
+Pairing 323 (BASE1) : Start - 2000-01-03 14:21, End - 2000-01-03 22:26
+Pairing 1008 (BASE1) : Start - 2000-01-08 14:19, End - 2000-01-09 01:10
+Pairing 901 (BASE1) : Start - 2000-01-11 18:04, End - 2000-01-13 01:53
+Pairing 383 (BASE1) : Start - 2000-01-16 22:25, End - 2000-01-17 22:22
+Employee Vacation Request: 2000-01-20 00:00 ==> 2000-01-27 23:59
+Pairing 65 (BASE1) : Start - 2000-01-28 03:23, End - 2000-01-30 01:33
+
+ 
+Employee 90: 65.06666666666666 Credited Flying Time (In Hours) 
+Pairing 887 (BASE1) : Start - 2000-01-11 02:24, End - 2000-01-11 22:46
+Pairing 950 (BASE1) : Start - 2000-01-19 12:01, End - 2000-01-21 12:45
+Pairing 1160 (BASE1) : Start - 2000-01-24 02:24, End - 2000-01-26 00:19
+Pairing 56 (BASE1) : Start - 2000-01-28 23:30, End - 2000-01-31 18:08
+
+ 
+Employee 91: 79.63333333333333 Credited Flying Time (In Hours) 
+Pairing 651 (BASE1) : Start - 2000-01-01 14:22, End - 2000-01-02 22:18
+Pairing 331 (BASE1) : Start - 2000-01-03 12:00, End - 2000-01-04 18:23
+Pairing 729 (BASE1) : Start - 2000-01-07 02:55, End - 2000-01-07 11:02
+Pairing 1021 (BASE1) : Start - 2000-01-08 20:43, End - 2000-01-11 16:57
+Pairing 1134 (BASE1) : Start - 2000-01-21 02:24, End - 2000-01-24 15:41
+
+ 
+Employee 92: 39.966666666666654 Credited Flying Time (In Hours) 
+Employee Vacation Request: 2000-01-05 00:00 ==> 2000-01-11 23:59
+Pairing 389 (BASE1) : Start - 2000-01-16 14:19, End - 2000-01-17 01:10
+Pairing 1129 (BASE1) : Start - 2000-01-21 22:25, End - 2000-01-23 15:41
+Pairing 818 (BASE1) : Start - 2000-01-25 11:50, End - 2000-01-26 20:39
+Pairing 81 (BASE1) : Start - 2000-01-28 03:55, End - 2000-01-28 12:03
+
+ 
+Employee 93: 60.54999999999998 Credited Flying Time (In Hours) 
+Pairing 1209 (BASE1) : Start - 2000-01-04 22:33, End - 2000-01-07 14:53
+Employee Vacation Request: 2000-01-10 00:00 ==> 2000-01-19 23:59
+Pairing 318 (BASE1) : Start - 2000-01-22 12:01, End - 2000-01-25 21:07
+Pairing 365 (BASE1) : Start - 2000-01-27 17:21, End - 2000-01-28 03:23
+Pairing 79 (BASE1) : Start - 2000-01-28 19:04, End - 2000-01-29 02:14
+
+ 
+Employee 94: 81.35833333333335 Credited Flying Time (In Hours) 
+Pairing 321 (BASE1) : Start - 2000-01-03 12:05, End - 2000-01-03 21:07
+Pairing 750 (BASE1) : Start - 2000-01-07 02:20, End - 2000-01-09 17:13
+Pairing 1225 (BASE1) : Start - 2000-01-12 12:06, End - 2000-01-13 18:23
+Pairing 1421 (BASE1) : Start - 2000-01-18 14:22, End - 2000-01-20 00:19
+Pairing 1132 (BASE1) : Start - 2000-01-21 22:30, End - 2000-01-24 22:18
+
+ 
+Employee 95: 55.09999999999998 Credited Flying Time (In Hours) 
+Pairing 1196 (BASE1) : Start - 2000-01-04 03:04, End - 2000-01-05 15:35
+Pairing 757 (BASE1) : Start - 2000-01-07 22:33, End - 2000-01-11 00:30
+Pairing 941 (BASE1) : Start - 2000-01-19 16:39, End - 2000-01-20 01:13
+Pairing 830 (BASE1) : Start - 2000-01-25 22:25, End - 2000-01-27 12:05
+
+ 
+Employee 96: 58.01666666666668 Credited Flying Time (In Hours) 
+Pairing 664 (BASE1) : Start - 2000-01-01 23:47, End - 2000-01-03 13:05
+Pairing 879 (BASE1) : Start - 2000-01-11 12:06, End - 2000-01-11 19:26
+Pairing 399 (BASE1) : Start - 2000-01-16 11:00, End - 2000-01-20 00:30
+Pairing 312 (BASE1) : Start - 2000-01-22 16:21, End - 2000-01-23 02:24
+Pairing 358 (BASE1) : Start - 2000-01-27 13:24, End - 2000-01-27 21:21
+
+ 
+Employee 97: 64.7166666666667 Credited Flying Time (In Hours) 
+Pairing 339 (BASE1) : Start - 2000-01-03 02:20, End - 2000-01-05 17:13
+Employee Vacation Request: 2000-01-06 00:00 ==> 2000-01-19 23:59
+Pairing 1115 (BASE1) : Start - 2000-01-21 12:06, End - 2000-01-21 19:26
+Pairing 437 (BASE1) : Start - 2000-01-26 14:19, End - 2000-01-30 01:28
+Pairing 102 (BASE1) : Start - 2000-01-31 03:23, End - 2000-01-31 23:59
+
+ 
+Employee 98: 77.50000000000003 Credited Flying Time (In Hours) 
+Pairing 646 (BASE1) : Start - 2000-01-01 12:05, End - 2000-01-02 18:23
+Pairing 1311 (BASE1) : Start - 2000-01-10 12:15, End - 2000-01-10 20:29
+Pairing 505 (BASE1) : Start - 2000-01-13 16:22, End - 2000-01-14 01:10
+Pairing 382 (BASE1) : Start - 2000-01-16 12:05, End - 2000-01-16 21:07
+Pairing 1424 (BASE1) : Start - 2000-01-18 20:43, End - 2000-01-21 17:13
+Pairing 463 (BASE1) : Start - 2000-01-26 12:05, End - 2000-01-29 01:28
+
+ 
+Employee 99: 68.08333333333334 Credited Flying Time (In Hours) 
+Pairing 488 (BASE1) : Start - 2000-01-02 22:21, End - 2000-01-05 13:21
+Pairing 139 (BASE1) : Start - 2000-01-15 12:24, End - 2000-01-15 20:41
+Pairing 1401 (BASE1) : Start - 2000-01-18 02:55, End - 2000-01-18 11:02
+Pairing 1423 (BASE1) : Start - 2000-01-18 22:02, End - 2000-01-21 22:18
+Pairing 309 (BASE1) : Start - 2000-01-22 14:19, End - 2000-01-23 01:10
+
+ 
+Employee 100: 61.24999999999999 Credited Flying Time (In Hours) 
+Pairing 670 (BASE1) : Start - 2000-01-01 20:12, End - 2000-01-04 13:21
+Pairing 271 (BASE1) : Start - 2000-01-06 14:10, End - 2000-01-06 22:55
+Pairing 746 (BASE1) : Start - 2000-01-07 14:19, End - 2000-01-08 01:10
+Pairing 1319 (BASE1) : Start - 2000-01-10 02:55, End - 2000-01-10 11:02
+Pairing 1228 (BASE1) : Start - 2000-01-12 18:04, End - 2000-01-13 01:06
+Pairing 78 (BASE1) : Start - 2000-01-28 23:25, End - 2000-01-29 23:29
+
+ 
+Employee 101: 79.50000000000003 Credited Flying Time (In Hours) 
+Pairing 649 (BASE1) : Start - 2000-01-01 16:42, End - 2000-01-02 22:17
+Pairing 282 (BASE1) : Start - 2000-01-06 16:22, End - 2000-01-07 01:10
+Pairing 737 (BASE1) : Start - 2000-01-07 12:05, End - 2000-01-07 21:07
+Pairing 394 (BASE1) : Start - 2000-01-16 18:04, End - 2000-01-18 01:53
+Pairing 1121 (BASE1) : Start - 2000-01-21 12:05, End - 2000-01-22 19:27
+Pairing 1146 (BASE1) : Start - 2000-01-24 20:33, End - 2000-01-25 03:21
+Pairing 64 (BASE1) : Start - 2000-01-28 15:31, End - 2000-01-29 23:18
+
+ 
+Employee 102: 76.58333333333333 Credited Flying Time (In Hours) 
+Pairing 467 (BASE1) : Start - 2000-01-02 12:24, End - 2000-01-02 20:41
+Pairing 325 (BASE1) : Start - 2000-01-03 14:10, End - 2000-01-03 22:55
+Pairing 754 (BASE1) : Start - 2000-01-07 20:43, End - 2000-01-10 15:12
+Pairing 133 (BASE1) : Start - 2000-01-15 12:21, End - 2000-01-15 20:57
+Pairing 951 (BASE1) : Start - 2000-01-19 18:00, End - 2000-01-21 01:53
+Pairing 316 (BASE1) : Start - 2000-01-22 02:24, End - 2000-01-25 11:05
+
+ 
+Employee 103: 80.78333333333333 Credited Flying Time (In Hours) 
+Pairing 669 (BASE1) : Start - 2000-01-01 14:19, End - 2000-01-04 11:05
+Pairing 741 (BASE1) : Start - 2000-01-07 12:00, End - 2000-01-08 18:23
+Pairing 1226 (BASE1) : Start - 2000-01-12 16:42, End - 2000-01-13 22:17
+Pairing 143 (BASE1) : Start - 2000-01-15 16:42, End - 2000-01-16 22:17
+Pairing 1131 (BASE1) : Start - 2000-01-21 14:22, End - 2000-01-23 00:19
+Pairing 1439 (BASE1) : Start - 2000-01-30 13:06, End - 2000-01-30 20:26
+
+ 
+Employee 104: 77.15 Credited Flying Time (In Hours) 
+Pairing 661 (BASE1) : Start - 2000-01-01 16:21, End - 2000-01-02 02:24
+Pairing 1036 (BASE1) : Start - 2000-01-09 02:20, End - 2000-01-10 14:53
+Pairing 1231 (BASE1) : Start - 2000-01-12 16:39, End - 2000-01-13 01:13
+Pairing 503 (BASE1) : Start - 2000-01-13 16:39, End - 2000-01-14 01:13
+Pairing 935 (BASE1) : Start - 2000-01-19 12:06, End - 2000-01-19 19:26
+Pairing 593 (BASE1) : Start - 2000-01-23 16:21, End - 2000-01-24 02:24
+Pairing 833 (BASE1) : Start - 2000-01-25 22:02, End - 2000-01-28 14:24
+Pairing 98 (BASE1) : Start - 2000-01-31 13:13, End - 2000-01-31 21:41
+
+ 
+Employee 105: 56.73333333333332 Credited Flying Time (In Hours) 
+Pairing 1324 (BASE1) : Start - 2000-01-10 03:04, End - 2000-01-11 15:35
+Employee Vacation Request: 2000-01-13 00:00 ==> 2000-01-15 23:59
+Pairing 1130 (BASE1) : Start - 2000-01-21 12:21, End - 2000-01-23 12:45
+Pairing 823 (BASE1) : Start - 2000-01-25 16:39, End - 2000-01-26 01:13
+Pairing 371 (BASE1) : Start - 2000-01-27 02:23, End - 2000-01-29 01:33
+
+ 
+Employee 106: 56.73333333333333 Credited Flying Time (In Hours) 
+Pairing 1195 (BASE1) : Start - 2000-01-04 16:42, End - 2000-01-05 22:17
+Pairing 279 (BASE1) : Start - 2000-01-06 11:00, End - 2000-01-07 20:15
+Pairing 1418 (BASE1) : Start - 2000-01-18 22:25, End - 2000-01-20 15:41
+Pairing 5 (BASE1) : Start - 2000-01-29 23:30, End - 2000-01-31 16:09
+
+ 
+Employee 107: 83.7 Credited Flying Time (In Hours) 
+Pairing 1003 (BASE1) : Start - 2000-01-08 03:00, End - 2000-01-08 14:59
+Pairing 1309 (BASE1) : Start - 2000-01-10 02:24, End - 2000-01-10 11:02
+Pairing 1217 (BASE1) : Start - 2000-01-12 12:15, End - 2000-01-12 20:29
+Pairing 106 (BASE1) : Start - 2000-01-14 02:23, End - 2000-01-14 22:55
+Pairing 395 (BASE1) : Start - 2000-01-16 14:31, End - 2000-01-18 00:19
+Pairing 1416 (BASE1) : Start - 2000-01-18 14:19, End - 2000-01-19 01:10
+Pairing 582 (BASE1) : Start - 2000-01-23 02:55, End - 2000-01-23 11:02
+Pairing 601 (BASE1) : Start - 2000-01-23 23:47, End - 2000-01-26 20:15
+Pairing 94 (BASE1) : Start - 2000-01-31 13:06, End - 2000-01-31 20:26
+
+ 
+Employee 108: 79.28333333333335 Credited Flying Time (In Hours) 
+Pairing 751 (BASE1) : Start - 2000-01-07 11:00, End - 2000-01-09 18:26
+Pairing 1215 (BASE1) : Start - 2000-01-12 02:24, End - 2000-01-12 11:02
+Pairing 1239 (BASE1) : Start - 2000-01-12 22:02, End - 2000-01-16 00:30
+Pairing 221 (BASE1) : Start - 2000-01-20 12:06, End - 2000-01-20 19:26
+Pairing 1139 (BASE1) : Start - 2000-01-24 14:21, End - 2000-01-24 22:26
+Pairing 808 (BASE1) : Start - 2000-01-25 12:06, End - 2000-01-25 19:26
+Pairing 85 (BASE1) : Start - 2000-01-31 00:47, End - 2000-01-31 12:05
+
+ 
+Employee 109: 46.63333333333335 Credited Flying Time (In Hours) 
+Pairing 471 (BASE1) : Start - 2000-01-02 02:24, End - 2000-01-02 22:46
+Employee Vacation Request: 2000-01-07 00:00 ==> 2000-01-13 23:59
+Pairing 320 (BASE1) : Start - 2000-01-22 22:02, End - 2000-01-26 00:30
+Pairing 21 (BASE1) : Start - 2000-01-29 13:24, End - 2000-01-29 21:21
+Pairing 1437 (BASE1) : Start - 2000-01-30 15:23, End - 2000-01-30 23:27
+
+ 
+Employee 110: 80.06666666666666 Credited Flying Time (In Hours) 
+Pairing 637 (BASE1) : Start - 2000-01-01 12:24, End - 2000-01-01 20:41
+Pairing 1261 (BASE1) : Start - 2000-01-05 22:25, End - 2000-01-07 22:18
+Pairing 1332 (BASE1) : Start - 2000-01-10 14:22, End - 2000-01-12 00:19
+Pairing 501 (BASE1) : Start - 2000-01-13 02:20, End - 2000-01-14 20:39
+Pairing 366 (BASE1) : Start - 2000-01-27 17:43, End - 2000-01-28 01:28
+Pairing 1429 (BASE1) : Start - 2000-01-30 00:47, End - 2000-02-01 01:27
+
+ 
+Employee 111: 69.55000000000001 Credited Flying Time (In Hours) 
+Pairing 663 (BASE1) : Start - 2000-01-01 19:35, End - 2000-01-03 14:53
+Pairing 1201 (BASE1) : Start - 2000-01-04 16:39, End - 2000-01-05 01:13
+Pairing 120 (BASE1) : Start - 2000-01-14 16:43, End - 2000-01-15 02:03
+Pairing 615 (BASE1) : Start - 2000-01-17 11:50, End - 2000-01-18 18:23
+Pairing 939 (BASE1) : Start - 2000-01-19 16:42, End - 2000-01-20 22:17
+Pairing 590 (BASE1) : Start - 2000-01-23 14:19, End - 2000-01-24 01:10
+Pairing 97 (BASE1) : Start - 2000-01-31 17:21, End - 2000-02-01 03:23
+
+ 
+Employee 112: 62.550000000000004 Credited Flying Time (In Hours) 
+Pairing 345 (BASE1) : Start - 2000-01-03 22:25, End - 2000-01-06 20:15
+Pairing 1052 (BASE1) : Start - 2000-01-09 02:24, End - 2000-01-12 15:41
+Pairing 111 (BASE1) : Start - 2000-01-14 14:21, End - 2000-01-14 22:26
+Pairing 313 (BASE1) : Start - 2000-01-22 23:47, End - 2000-01-24 13:05
+
+ 
+Employee 113: 74.26666666666667 Credited Flying Time (In Hours) 
+Pairing 335 (BASE1) : Start - 2000-01-03 14:19, End - 2000-01-04 01:10
+Pairing 1333 (BASE1) : Start - 2000-01-10 18:04, End - 2000-01-12 01:53
+Pairing 1227 (BASE1) : Start - 2000-01-12 14:22, End - 2000-01-13 19:27
+Pairing 223 (BASE1) : Start - 2000-01-20 12:24, End - 2000-01-20 20:41
+Pairing 1125 (BASE1) : Start - 2000-01-21 14:19, End - 2000-01-22 01:10
+Pairing 347 (BASE1) : Start - 2000-01-27 23:33, End - 2000-01-31 01:28
+
+ 
+Employee 114: 73.76666666666668 Credited Flying Time (In Hours) 
+Pairing 470 (BASE1) : Start - 2000-01-02 02:55, End - 2000-01-02 11:02
+Pairing 1204 (BASE1) : Start - 2000-01-04 22:25, End - 2000-01-06 15:41
+Pairing 381 (BASE1) : Start - 2000-01-16 02:55, End - 2000-01-16 11:02
+Pairing 1414 (BASE1) : Start - 2000-01-18 16:43, End - 2000-01-19 02:03
+Pairing 304 (BASE1) : Start - 2000-01-22 22:25, End - 2000-01-23 22:22
+Pairing 1143 (BASE1) : Start - 2000-01-24 14:10, End - 2000-01-24 22:55
+Pairing 812 (BASE1) : Start - 2000-01-25 14:21, End - 2000-01-25 22:26
+Pairing 360 (BASE1) : Start - 2000-01-27 15:27, End - 2000-01-28 23:18
+
+ 
+Employee 115: 58.28333333333337 Credited Flying Time (In Hours) 
+Pairing 1268 (BASE1) : Start - 2000-01-05 22:02, End - 2000-01-09 00:30
+Employee Vacation Request: 2000-01-10 00:00 ==> 2000-01-16 23:59
+Pairing 610 (BASE1) : Start - 2000-01-17 14:10, End - 2000-01-17 22:55
+Pairing 241 (BASE1) : Start - 2000-01-20 22:21, End - 2000-01-23 23:11
+
+ 
+Employee 116: 76.76666666666667 Credited Flying Time (In Hours) 
+Pairing 655 (BASE1) : Start - 2000-01-01 18:04, End - 2000-01-02 01:06
+Pairing 1023 (BASE1) : Start - 2000-01-08 22:02, End - 2000-01-12 00:23
+Pairing 497 (BASE1) : Start - 2000-01-13 20:33, End - 2000-01-14 03:21
+Pairing 936 (BASE1) : Start - 2000-01-19 02:55, End - 2000-01-19 11:02
+Pairing 597 (BASE1) : Start - 2000-01-23 22:34, End - 2000-01-25 17:13
+Pairing 59 (BASE1) : Start - 2000-01-28 13:21, End - 2000-01-30 16:32
+
+ 
+Employee 117: 20.950000000000003 Credited Flying Time (In Hours) 
+Pairing 731 (BASE1) : Start - 2000-01-07 14:21, End - 2000-01-07 22:26
+Employee Vacation Request: 2000-01-08 00:00 ==> 2000-01-22 23:59
+Pairing 66 (BASE1) : Start - 2000-01-28 17:22, End - 2000-01-29 03:19
+Pairing 1438 (BASE1) : Start - 2000-01-30 03:55, End - 2000-01-30 12:03
+
+ 
+Employee 118: 42.06666666666666 Credited Flying Time (In Hours) 
+Pairing 896 (BASE1) : Start - 2000-01-11 16:43, End - 2000-01-12 02:03
+Pairing 390 (BASE1) : Start - 2000-01-16 16:22, End - 2000-01-17 01:10
+Pairing 829 (BASE1) : Start - 2000-01-25 02:24, End - 2000-01-27 18:08
+Pairing 27 (BASE1) : Start - 2000-01-29 03:24, End - 2000-01-29 12:05
+
+ 
+Employee 119: 82.09166666666667 Credited Flying Time (In Hours) 
+Pairing 289 (BASE1) : Start - 2000-01-06 14:22, End - 2000-01-08 00:19
+Pairing 1024 (BASE1) : Start - 2000-01-08 22:30, End - 2000-01-12 01:13
+Pairing 1220 (BASE1) : Start - 2000-01-12 14:21, End - 2000-01-12 22:26
+Pairing 114 (BASE1) : Start - 2000-01-14 16:42, End - 2000-01-15 22:17
+Pairing 942 (BASE1) : Start - 2000-01-19 14:19, End - 2000-01-20 01:10
+Pairing 235 (BASE1) : Start - 2000-01-20 16:39, End - 2000-01-21 01:13
+Pairing 592 (BASE1) : Start - 2000-01-23 16:39, End - 2000-01-24 01:13
+
+ 
+Employee 120: 60.38333333333335 Credited Flying Time (In Hours) 
+Pairing 652 (BASE1) : Start - 2000-01-01 16:44, End - 2000-01-02 22:22
+Employee Vacation Request: 2000-01-04 00:00 ==> 2000-01-10 23:59
+Pairing 1264 (BASE1) : Start - 2000-01-05 20:43, End - 2000-01-08 13:21
+Pairing 242 (BASE1) : Start - 2000-01-20 22:30, End - 2000-01-23 14:53
+Pairing 351 (BASE1) : Start - 2000-01-27 17:22, End - 2000-01-28 03:19
+
+ 
+Employee 121: 73.86666666666666 Credited Flying Time (In Hours) 
+Pairing 662 (BASE1) : Start - 2000-01-01 22:33, End - 2000-01-03 23:11
+Pairing 1262 (BASE1) : Start - 2000-01-05 12:01, End - 2000-01-07 12:45
+Pairing 1334 (BASE1) : Start - 2000-01-10 20:43, End - 2000-01-13 15:12
+Pairing 613 (BASE1) : Start - 2000-01-17 12:00, End - 2000-01-18 19:27
+Pairing 76 (BASE1) : Start - 2000-01-28 03:24, End - 2000-01-28 12:05
+
+ 
+Employee 122: 28.283333333333324 Credited Flying Time (In Hours) 
+Employee Vacation Request: 2000-01-12 00:00 ==> 2000-01-18 23:59
+Pairing 238 (BASE1) : Start - 2000-01-20 22:25, End - 2000-01-22 11:05
+Pairing 1137 (BASE1) : Start - 2000-01-24 02:55, End - 2000-01-24 11:02
+Pairing 17 (BASE1) : Start - 2000-01-29 23:33, End - 2000-01-31 01:27
+
+ 
+Employee 123: 50.3833333333333 Credited Flying Time (In Hours) 
+Pairing 1019 (BASE1) : Start - 2000-01-08 22:00, End - 2000-01-11 17:13
+Pairing 105 (BASE1) : Start - 2000-01-14 12:06, End - 2000-01-14 19:26
+Pairing 147 (BASE1) : Start - 2000-01-15 16:22, End - 2000-01-16 01:10
+Pairing 1417 (BASE1) : Start - 2000-01-18 16:22, End - 2000-01-19 01:10
+Pairing 1154 (BASE1) : Start - 2000-01-24 16:21, End - 2000-01-25 02:24
+
+ 
+Employee 124: 73.6 Credited Flying Time (In Hours) 
+Pairing 639 (BASE1) : Start - 2000-01-01 11:50, End - 2000-01-01 20:33
+Pairing 1205 (BASE1) : Start - 2000-01-04 22:02, End - 2000-01-06 13:05
+Pairing 1016 (BASE1) : Start - 2000-01-08 11:00, End - 2000-01-10 13:21
+Pairing 1408 (BASE1) : Start - 2000-01-18 12:24, End - 2000-01-18 20:41
+Pairing 301 (BASE1) : Start - 2000-01-22 12:00, End - 2000-01-22 18:45
+Pairing 353 (BASE1) : Start - 2000-01-27 12:50, End - 2000-01-27 21:35
+Pairing 2 (BASE1) : Start - 2000-01-29 03:23, End - 2000-01-31 23:29
+
+ 
+Employee 125: 66.59999999999998 Credited Flying Time (In Hours) 
+Pairing 334 (BASE1) : Start - 2000-01-03 16:39, End - 2000-01-04 01:13
+Pairing 1035 (BASE1) : Start - 2000-01-09 12:00, End - 2000-01-10 18:23
+Pairing 888 (BASE1) : Start - 2000-01-11 11:50, End - 2000-01-12 18:23
+Pairing 109 (BASE1) : Start - 2000-01-14 03:13, End - 2000-01-14 13:10
+Pairing 609 (BASE1) : Start - 2000-01-17 12:21, End - 2000-01-17 20:33
+Pairing 1124 (BASE1) : Start - 2000-01-21 16:39, End - 2000-01-22 01:13
+Pairing 448 (BASE1) : Start - 2000-01-26 23:47, End - 2000-01-27 11:00
+Pairing 1 (BASE1) : Start - 2000-01-29 22:59, End - 2000-01-31 20:18
+
+ 
+Employee 126: 64.63333333333331 Credited Flying Time (In Hours) 
+Pairing 1208 (BASE1) : Start - 2000-01-04 14:22, End - 2000-01-06 00:19
+Pairing 996 (BASE1) : Start - 2000-01-08 12:24, End - 2000-01-08 20:41
+Pairing 1232 (BASE1) : Start - 2000-01-12 16:43, End - 2000-01-13 02:03
+Pairing 119 (BASE1) : Start - 2000-01-14 16:39, End - 2000-01-15 01:13
+Pairing 141 (BASE1) : Start - 2000-01-15 12:05, End - 2000-01-16 19:27
+Pairing 306 (BASE1) : Start - 2000-01-22 16:42, End - 2000-01-23 22:17
+
+ 
+Employee 127: 6.79999999999999 Credited Flying Time (In Hours) 
+Employee Vacation Request: 2000-01-09 00:00 ==> 2000-01-23 23:59
+Pairing 71 (BASE1) : Start - 2000-01-28 13:13, End - 2000-01-28 21:41
+
+ 
+Employee 128: 56.083333333333336 Credited Flying Time (In Hours) 
+Pairing 338 (BASE1) : Start - 2000-01-03 16:21, End - 2000-01-04 02:24
+Pairing 288 (BASE1) : Start - 2000-01-06 23:47, End - 2000-01-08 22:24
+Pairing 1233 (BASE1) : Start - 2000-01-12 22:25, End - 2000-01-14 15:41
+Pairing 302 (BASE1) : Start - 2000-01-22 12:05, End - 2000-01-22 21:07
+Pairing 70 (BASE1) : Start - 2000-01-28 17:21, End - 2000-01-29 03:23
+Pairing 91 (BASE1) : Start - 2000-01-31 15:23, End - 2000-01-31 23:27
+
+ 
+Employee 129: 73.01666666666665 Credited Flying Time (In Hours) 
+Pairing 654 (BASE1) : Start - 2000-01-01 16:43, End - 2000-01-02 02:03
+Pairing 1012 (BASE1) : Start - 2000-01-08 16:39, End - 2000-01-09 01:13
+Employee Vacation Request: 2000-01-13 00:00 ==> 2000-01-15 23:59
+Pairing 1415 (BASE1) : Start - 2000-01-18 16:39, End - 2000-01-19 01:13
+Pairing 955 (BASE1) : Start - 2000-01-19 22:21, End - 2000-01-23 00:30
+Pairing 439 (BASE1) : Start - 2000-01-26 12:06, End - 2000-01-26 19:26
+Pairing 61 (BASE1) : Start - 2000-01-28 13:05, End - 2000-01-31 23:26
+
+ 
+Employee 130: 33.93333333333333 Credited Flying Time (In Hours) 
+Employee Vacation Request: 2000-01-01 00:00 ==> 2000-01-15 23:59
+Pairing 1199 (BASE1) : Start - 2000-01-04 14:19, End - 2000-01-05 01:10
+Pairing 375 (BASE1) : Start - 2000-01-16 12:00, End - 2000-01-16 18:45
+Pairing 600 (BASE1) : Start - 2000-01-23 22:33, End - 2000-01-26 14:53
+
+ 
+Employee 131: 35.083333333333336 Credited Flying Time (In Hours) 
+Pairing 1047 (BASE1) : Start - 2000-01-09 12:21, End - 2000-01-11 13:21
+Pairing 151 (BASE1) : Start - 2000-01-15 22:25, End - 2000-01-17 15:41
+Pairing 296 (BASE1) : Start - 2000-01-22 02:55, End - 2000-01-22 11:02
+
+ 
+Employee 132: 46.483333333333306 Credited Flying Time (In Hours) 
+Pairing 1255 (BASE1) : Start - 2000-01-05 16:22, End - 2000-01-06 01:10
+Pairing 748 (BASE1) : Start - 2000-01-07 16:21, End - 2000-01-08 02:24
+Pairing 500 (BASE1) : Start - 2000-01-13 12:00, End - 2000-01-14 18:23
+Pairing 144 (BASE1) : Start - 2000-01-15 16:43, End - 2000-01-16 02:03
+Pairing 1400 (BASE1) : Start - 2000-01-18 12:05, End - 2000-01-18 21:07
+Pairing 576 (BASE1) : Start - 2000-01-23 02:24, End - 2000-01-23 22:46
+Employee Vacation Request: 2000-01-26 00:00 ==> 2000-01-30 23:59
+
+ 
+Employee 133: 53.45000000000001 Credited Flying Time (In Hours) 
+Pairing 641 (BASE1) : Start - 2000-01-01 14:21, End - 2000-01-01 22:26
+Pairing 738 (BASE1) : Start - 2000-01-07 20:33, End - 2000-01-08 03:21
+Pairing 397 (BASE1) : Start - 2000-01-16 20:43, End - 2000-01-19 15:12
+Pairing 233 (BASE1) : Start - 2000-01-20 16:22, End - 2000-01-21 01:10
+Pairing 300 (BASE1) : Start - 2000-01-22 12:06, End - 2000-01-22 19:26
+Pairing 73 (BASE1) : Start - 2000-01-28 13:24, End - 2000-01-28 21:21
+
+ 
+Employee 134: 23.48333333333333 Credited Flying Time (In Hours) 
+Pairing 998 (BASE1) : Start - 2000-01-08 02:55, End - 2000-01-08 11:02
+Pairing 885 (BASE1) : Start - 2000-01-11 03:13, End - 2000-01-11 13:10
+Employee Vacation Request: 2000-01-12 00:00 ==> 2000-01-18 23:59
+Pairing 586 (BASE1) : Start - 2000-01-23 16:42, End - 2000-01-24 22:17
+
+ 
+Employee 135: 40.05000000000001 Credited Flying Time (In Hours) 
+Pairing 1051 (BASE1) : Start - 2000-01-09 23:47, End - 2000-01-12 14:53
+Pairing 1410 (BASE1) : Start - 2000-01-18 11:00, End - 2000-01-19 12:45
+Pairing 96 (BASE1) : Start - 2000-01-31 19:04, End - 2000-02-01 02:14
+
+ 
+Employee 136: 81.26666666666665 Credited Flying Time (In Hours) 
+Pairing 1193 (BASE1) : Start - 2000-01-04 12:00, End - 2000-01-05 18:26
+Pairing 632 (BASE1) : Start - 2000-01-17 22:02, End - 2000-01-20 00:42
+Pairing 222 (BASE1) : Start - 2000-01-20 12:00, End - 2000-01-20 18:45
+Pairing 604 (BASE1) : Start - 2000-01-23 22:30, End - 2000-01-27 00:30
+Pairing 9 (BASE1) : Start - 2000-01-29 15:27, End - 2000-01-30 23:18
+Pairing 92 (BASE1) : Start - 2000-01-31 14:40, End - 2000-02-01 02:10
+
+ 
+Employee 137: 40.216666666666654 Credited Flying Time (In Hours) 
+Pairing 734 (BASE1) : Start - 2000-01-07 03:13, End - 2000-01-07 13:10
+Pairing 118 (BASE1) : Start - 2000-01-14 16:21, End - 2000-01-15 02:24
+Pairing 954 (BASE1) : Start - 2000-01-19 22:30, End - 2000-01-22 00:19
+Pairing 1436 (BASE1) : Start - 2000-01-30 15:31, End - 2000-01-31 23:26
+
+ 
+Employee 138: 45.58333333333332 Credited Flying Time (In Hours) 
+Pairing 644 (BASE1) : Start - 2000-01-01 20:33, End - 2000-01-02 03:21
+Pairing 275 (BASE1) : Start - 2000-01-06 20:33, End - 2000-01-07 03:21
+Pairing 904 (BASE1) : Start - 2000-01-11 20:43, End - 2000-01-14 13:21
+Pairing 1411 (BASE1) : Start - 2000-01-18 02:20, End - 2000-01-19 14:53
+
+ 
+Employee 139: 74.81666666666668 Credited Flying Time (In Hours) 
+Pairing 472 (BASE1) : Start - 2000-01-02 12:21, End - 2000-01-02 20:57
+Pairing 1212 (BASE1) : Start - 2000-01-04 22:30, End - 2000-01-07 00:30
+Pairing 749 (BASE1) : Start - 2000-01-07 22:02, End - 2000-01-09 13:05
+Pairing 510 (BASE1) : Start - 2000-01-13 12:01, End - 2000-01-15 19:27
+Pairing 1149 (BASE1) : Start - 2000-01-24 16:43, End - 2000-01-25 02:03
+Pairing 1427 (BASE1) : Start - 2000-01-30 01:06, End - 2000-01-31 16:18
+
+ 
+Employee 140: 7.200000000000013 Credited Flying Time (In Hours) 
+Pairing 881 (BASE1) : Start - 2000-01-11 12:15, End - 2000-01-11 20:29
+Employee Vacation Request: 2000-01-17 00:00 ==> 2000-01-30 23:59
+
+ 
+Employee 141: 83.61666666666669 Credited Flying Time (In Hours) 
+Pairing 1166 (BASE2) : Start - 2000-01-04 01:11, End - 2000-01-04 12:09
+Pairing 1302 (BASE2) : Start - 2000-01-05 14:40, End - 2000-01-07 21:53
+Pairing 417 (BASE2) : Start - 2000-01-09 01:11, End - 2000-01-09 12:09
+Pairing 695 (BASE2) : Start - 2000-01-11 10:50, End - 2000-01-11 18:17
+Pairing 259 (BASE2) : Start - 2000-01-12 14:50, End - 2000-01-13 00:35
+Pairing 1074 (BASE2) : Start - 2000-01-14 10:54, End - 2000-01-14 19:58
+Pairing 1341 (BASE2) : Start - 2000-01-19 01:09, End - 2000-01-19 11:55
+Pairing 692 (BASE2) : Start - 2000-01-20 14:40, End - 2000-01-23 22:13
+Pairing 923 (BASE2) : Start - 2000-01-26 23:23, End - 2000-01-27 20:42
+Pairing 1364 (BASE2) : Start - 2000-01-30 01:20, End - 2000-01-31 13:05
+
+ 
+Employee 142: 83.14999999999999 Credited Flying Time (In Hours) 
+Pairing 1054 (BASE2) : Start - 2000-01-03 01:09, End - 2000-01-03 11:55
+Pairing 569 (BASE2) : Start - 2000-01-07 21:14, End - 2000-01-09 02:05
+Pairing 436 (BASE2) : Start - 2000-01-09 16:02, End - 2000-01-13 00:00
+Pairing 841 (BASE2) : Start - 2000-01-16 10:54, End - 2000-01-16 19:54
+Pairing 543 (BASE2) : Start - 2000-01-17 13:05, End - 2000-01-18 15:23
+Employee Vacation Request: 2000-01-21 00:00 ==> 2000-01-24 23:59
+Pairing 928 (BASE2) : Start - 2000-01-26 10:50, End - 2000-01-26 22:01
+Pairing 1493 (BASE2) : Start - 2000-01-28 02:09, End - 2000-01-28 13:06
+Pairing 41 (BASE2) : Start - 2000-01-29 17:05, End - 2000-01-30 02:37
+Pairing 1375 (BASE2) : Start - 2000-01-31 14:02, End - 2000-02-01 01:03
+
+ 
+Employee 143: 82.88333333333333 Credited Flying Time (In Hours) 
+Pairing 792 (BASE2) : Start - 2000-01-01 14:40, End - 2000-01-02 01:52
+Pairing 433 (BASE2) : Start - 2000-01-09 23:19, End - 2000-01-11 00:00
+Pairing 538 (BASE2) : Start - 2000-01-17 10:37, End - 2000-01-17 21:57
+Pairing 1096 (BASE2) : Start - 2000-01-18 13:07, End - 2000-01-19 14:57
+Pairing 986 (BASE2) : Start - 2000-01-21 23:23, End - 2000-01-22 19:48
+Pairing 1282 (BASE2) : Start - 2000-01-23 10:37, End - 2000-01-23 21:57
+Pairing 527 (BASE2) : Start - 2000-01-24 10:55, End - 2000-01-25 15:26
+Pairing 1482 (BASE2) : Start - 2000-01-28 22:00, End - 2000-01-30 14:23
+
+ 
+Employee 144: 83.55 Credited Flying Time (In Hours) 
+Pairing 784 (BASE2) : Start - 2000-01-01 13:05, End - 2000-01-02 19:49
+Pairing 1176 (BASE2) : Start - 2000-01-04 13:07, End - 2000-01-05 14:57
+Pairing 400 (BASE2) : Start - 2000-01-06 01:09, End - 2000-01-06 11:55
+Pairing 418 (BASE2) : Start - 2000-01-09 01:09, End - 2000-01-09 11:55
+Pairing 773 (BASE2) : Start - 2000-01-10 23:19, End - 2000-01-12 21:57
+Pairing 1075 (BASE2) : Start - 2000-01-14 01:09, End - 2000-01-14 11:55
+Pairing 549 (BASE2) : Start - 2000-01-17 16:02, End - 2000-01-19 13:21
+Pairing 962 (BASE2) : Start - 2000-01-25 22:30, End - 2000-01-27 04:35
+Pairing 1470 (BASE2) : Start - 2000-01-30 11:58, End - 2000-01-30 19:00
+
+ 
+Employee 145: 82.9 Credited Flying Time (In Hours) 
+Pairing 786 (BASE2) : Start - 2000-01-01 13:04, End - 2000-01-02 09:47
+Pairing 1063 (BASE2) : Start - 2000-01-03 16:02, End - 2000-01-04 19:54
+Pairing 568 (BASE2) : Start - 2000-01-07 16:02, End - 2000-01-09 22:13
+Pairing 765 (BASE2) : Start - 2000-01-10 13:04, End - 2000-01-11 09:47
+Pairing 248 (BASE2) : Start - 2000-01-12 01:09, End - 2000-01-12 11:55
+Employee Vacation Request: 2000-01-16 00:00 ==> 2000-01-23 23:59
+Pairing 532 (BASE2) : Start - 2000-01-24 10:50, End - 2000-01-24 18:17
+Pairing 919 (BASE2) : Start - 2000-01-26 10:42, End - 2000-01-27 16:23
+Pairing 1496 (BASE2) : Start - 2000-01-28 11:58, End - 2000-01-28 19:00
+Pairing 1369 (BASE2) : Start - 2000-01-31 17:16, End - 2000-02-01 02:50
+
+ 
+Employee 146: 82.75 Credited Flying Time (In Hours) 
+Pairing 800 (BASE2) : Start - 2000-01-01 23:15, End - 2000-01-03 00:00
+Pairing 573 (BASE2) : Start - 2000-01-07 22:30, End - 2000-01-09 00:05
+Pairing 762 (BASE2) : Start - 2000-01-10 10:37, End - 2000-01-10 21:57
+Pairing 260 (BASE2) : Start - 2000-01-12 22:30, End - 2000-01-14 00:05
+Pairing 1077 (BASE2) : Start - 2000-01-14 13:05, End - 2000-01-15 15:23
+Pairing 1347 (BASE2) : Start - 2000-01-19 01:06, End - 2000-01-20 09:58
+Pairing 963 (BASE2) : Start - 2000-01-25 12:57, End - 2000-01-26 22:13
+Pairing 42 (BASE2) : Start - 2000-01-29 22:22, End - 2000-01-30 20:47
+
+ 
+Employee 147: 80.76666666666667 Credited Flying Time (In Hours) 
+Pairing 789 (BASE2) : Start - 2000-01-01 10:50, End - 2000-01-02 19:53
+Pairing 1171 (BASE2) : Start - 2000-01-04 12:57, End - 2000-01-05 22:13
+Pairing 557 (BASE2) : Start - 2000-01-07 01:11, End - 2000-01-07 12:09
+Pairing 425 (BASE2) : Start - 2000-01-09 13:07, End - 2000-01-10 14:57
+Pairing 1078 (BASE2) : Start - 2000-01-14 12:57, End - 2000-01-15 22:13
+Pairing 1343 (BASE2) : Start - 2000-01-19 10:50, End - 2000-01-19 18:17
+Pairing 683 (BASE2) : Start - 2000-01-20 14:25, End - 2000-01-21 19:49
+Pairing 163 (BASE2) : Start - 2000-01-22 21:14, End - 2000-01-24 02:05
+
+ 
+Employee 148: 83.7 Credited Flying Time (In Hours) 
+Pairing 1290 (BASE2) : Start - 2000-01-05 01:09, End - 2000-01-05 11:55
+Pairing 250 (BASE2) : Start - 2000-01-12 13:07, End - 2000-01-13 09:54
+Pairing 1076 (BASE2) : Start - 2000-01-14 01:11, End - 2000-01-14 12:09
+Pairing 208 (BASE2) : Start - 2000-01-15 01:06, End - 2000-01-16 09:43
+Pairing 988 (BASE2) : Start - 2000-01-21 12:57, End - 2000-01-22 22:13
+Pairing 535 (BASE2) : Start - 2000-01-24 16:06, End - 2000-01-24 22:07
+Pairing 961 (BASE2) : Start - 2000-01-25 16:02, End - 2000-01-27 16:00
+Pairing 1478 (BASE2) : Start - 2000-01-28 02:21, End - 2000-01-29 23:14
+
+ 
+Employee 149: 82.56666666666666 Credited Flying Time (In Hours) 
+Pairing 1059 (BASE2) : Start - 2000-01-03 13:07, End - 2000-01-04 14:57
+Pairing 1292 (BASE2) : Start - 2000-01-05 10:37, End - 2000-01-05 21:57
+Pairing 759 (BASE2) : Start - 2000-01-10 16:06, End - 2000-01-10 22:07
+Pairing 249 (BASE2) : Start - 2000-01-12 10:55, End - 2000-01-12 19:49
+Pairing 978 (BASE2) : Start - 2000-01-21 16:05, End - 2000-01-24 21:57
+Pairing 974 (BASE2) : Start - 2000-01-25 10:54, End - 2000-01-25 19:58
+Pairing 861 (BASE2) : Start - 2000-01-27 14:49, End - 2000-01-28 16:23
+Pairing 50 (BASE2) : Start - 2000-01-29 02:23, End - 2000-01-29 13:05
+Pairing 1371 (BASE2) : Start - 2000-01-31 11:58, End - 2000-01-31 19:00
+
+ 
+Employee 150: 83.66666666666667 Credited Flying Time (In Hours) 
+Pairing 778 (BASE2) : Start - 2000-01-01 10:58, End - 2000-01-01 18:01
+Pairing 1383 (BASE2) : Start - 2000-01-02 16:16, End - 2000-01-03 23:55
+Pairing 1175 (BASE2) : Start - 2000-01-04 16:16, End - 2000-01-05 23:48
+Pairing 566 (BASE2) : Start - 2000-01-07 13:05, End - 2000-01-08 15:23
+Pairing 711 (BASE2) : Start - 2000-01-11 23:25, End - 2000-01-14 02:05
+Pairing 848 (BASE2) : Start - 2000-01-16 23:19, End - 2000-01-18 21:57
+Employee Vacation Request: 2000-01-20 00:00 ==> 2000-01-31 23:59
+
+ 
+Employee 151: 84.08333333333334 Credited Flying Time (In Hours) 
+Pairing 803 (BASE2) : Start - 2000-01-01 23:22, End - 2000-01-04 02:05
+Pairing 1179 (BASE2) : Start - 2000-01-04 16:02, End - 2000-01-06 22:13
+Pairing 558 (BASE2) : Start - 2000-01-07 10:35, End - 2000-01-07 19:54
+Pairing 712 (BASE2) : Start - 2000-01-11 16:02, End - 2000-01-14 19:48
+Pairing 210 (BASE2) : Start - 2000-01-15 13:05, End - 2000-01-16 14:57
+Employee Vacation Request: 2000-01-19 00:00 ==> 2000-01-30 23:59
+
+ 
+Employee 152: 82.7 Credited Flying Time (In Hours) 
+Pairing 1384 (BASE2) : Start - 2000-01-02 16:02, End - 2000-01-03 19:54
+Pairing 1291 (BASE2) : Start - 2000-01-05 01:11, End - 2000-01-05 12:09
+Pairing 427 (BASE2) : Start - 2000-01-09 23:25, End - 2000-01-10 23:54
+Pairing 722 (BASE2) : Start - 2000-01-13 23:19, End - 2000-01-15 21:57
+Pairing 850 (BASE2) : Start - 2000-01-16 21:14, End - 2000-01-18 02:05
+Pairing 685 (BASE2) : Start - 2000-01-20 16:10, End - 2000-01-21 13:21
+Pairing 1477 (BASE2) : Start - 2000-01-28 17:05, End - 2000-01-30 19:03
+
+ 
+Employee 153: 82.26666666666667 Credited Flying Time (In Hours) 
+Pairing 1389 (BASE2) : Start - 2000-01-02 01:06, End - 2000-01-03 09:43
+Pairing 565 (BASE2) : Start - 2000-01-07 13:07, End - 2000-01-08 14:57
+Pairing 423 (BASE2) : Start - 2000-01-09 23:23, End - 2000-01-10 19:48
+Pairing 706 (BASE2) : Start - 2000-01-11 10:55, End - 2000-01-13 19:49
+Pairing 1348 (BASE2) : Start - 2000-01-19 23:23, End - 2000-01-20 19:48
+Pairing 520 (BASE2) : Start - 2000-01-24 23:22, End - 2000-01-26 19:54
+Pairing 1465 (BASE2) : Start - 2000-01-30 02:23, End - 2000-01-30 13:05
+
+ 
+Employee 154: 78.33333333333334 Credited Flying Time (In Hours) 
+Pairing 801 (BASE2) : Start - 2000-01-01 22:30, End - 2000-01-03 00:05
+Pairing 432 (BASE2) : Start - 2000-01-09 22:30, End - 2000-01-11 00:05
+Pairing 258 (BASE2) : Start - 2000-01-12 10:50, End - 2000-01-13 21:53
+Pairing 843 (BASE2) : Start - 2000-01-16 01:06, End - 2000-01-17 09:43
+Pairing 523 (BASE2) : Start - 2000-01-24 16:10, End - 2000-01-25 13:21
+Pairing 1487 (BASE2) : Start - 2000-01-28 11:42, End - 2000-01-29 16:18
+Pairing 1455 (BASE2) : Start - 2000-01-30 14:11, End - 2000-01-31 19:03
+
+ 
+Employee 155: 82.26666666666668 Credited Flying Time (In Hours) 
+Pairing 196 (BASE2) : Start - 2000-01-08 21:22, End - 2000-01-10 00:00
+Pairing 261 (BASE2) : Start - 2000-01-12 19:37, End - 2000-01-15 19:58
+Pairing 839 (BASE2) : Start - 2000-01-16 16:06, End - 2000-01-16 22:07
+Pairing 1355 (BASE2) : Start - 2000-01-19 23:15, End - 2000-01-21 01:52
+Pairing 173 (BASE2) : Start - 2000-01-22 01:09, End - 2000-01-22 11:55
+Pairing 956 (BASE2) : Start - 2000-01-25 17:52, End - 2000-01-28 20:42
+Pairing 1474 (BASE2) : Start - 2000-01-30 02:06, End - 2000-01-30 13:06
+
+ 
+Employee 156: 78.65833333333336 Credited Flying Time (In Hours) 
+Pairing 1294 (BASE2) : Start - 2000-01-05 13:04, End - 2000-01-05 23:54
+Pairing 401 (BASE2) : Start - 2000-01-06 13:05, End - 2000-01-07 09:43
+Pairing 186 (BASE2) : Start - 2000-01-08 01:11, End - 2000-01-08 12:09
+Pairing 702 (BASE2) : Start - 2000-01-11 13:04, End - 2000-01-12 09:47
+Pairing 254 (BASE2) : Start - 2000-01-12 23:25, End - 2000-01-13 23:54
+Pairing 204 (BASE2) : Start - 2000-01-15 10:54, End - 2000-01-15 19:54
+Pairing 547 (BASE2) : Start - 2000-01-17 13:04, End - 2000-01-18 09:47
+Pairing 687 (BASE2) : Start - 2000-01-20 21:22, End - 2000-01-21 19:48
+Pairing 1286 (BASE2) : Start - 2000-01-23 10:54, End - 2000-01-23 19:54
+Pairing 1488 (BASE2) : Start - 2000-01-28 14:11, End - 2000-01-29 01:08
+Pairing 55 (BASE2) : Start - 2000-01-29 15:36, End - 2000-01-29 20:58
+
+ 
+Employee 157: 84.91666666666666 Credited Flying Time (In Hours) 
+Pairing 781 (BASE2) : Start - 2000-01-01 10:47, End - 2000-01-01 22:13
+Pairing 1184 (BASE2) : Start - 2000-01-04 23:25, End - 2000-01-07 19:48
+Pairing 713 (BASE2) : Start - 2000-01-11 23:15, End - 2000-01-14 00:00
+Pairing 837 (BASE2) : Start - 2000-01-16 01:09, End - 2000-01-16 11:55
+Pairing 1108 (BASE2) : Start - 2000-01-18 13:04, End - 2000-01-21 14:57
+Pairing 51 (BASE2) : Start - 2000-01-29 00:15, End - 2000-01-29 20:51
+
+ 
+Employee 158: 83.08333333333334 Credited Flying Time (In Hours) 
+Pairing 411 (BASE2) : Start - 2000-01-06 10:55, End - 2000-01-08 22:07
+Pairing 1073 (BASE2) : Start - 2000-01-14 10:37, End - 2000-01-14 21:57
+Pairing 214 (BASE2) : Start - 2000-01-15 23:15, End - 2000-01-17 01:52
+Pairing 975 (BASE2) : Start - 2000-01-21 20:55, End - 2000-01-25 00:00
+Pairing 960 (BASE2) : Start - 2000-01-25 23:25, End - 2000-01-27 23:14
+Pairing 1464 (BASE2) : Start - 2000-01-30 17:06, End - 2000-01-30 23:09
+
+ 
+Employee 159: 83.39999999999999 Credited Flying Time (In Hours) 
+Pairing 1381 (BASE2) : Start - 2000-01-02 10:54, End - 2000-01-02 19:58
+Pairing 1303 (BASE2) : Start - 2000-01-05 23:19, End - 2000-01-07 21:57
+Pairing 429 (BASE2) : Start - 2000-01-09 23:15, End - 2000-01-11 01:52
+Pairing 1090 (BASE2) : Start - 2000-01-18 10:54, End - 2000-01-18 19:54
+Pairing 990 (BASE2) : Start - 2000-01-21 10:35, End - 2000-01-21 19:58
+Pairing 172 (BASE2) : Start - 2000-01-22 16:06, End - 2000-01-22 22:07
+Pairing 1278 (BASE2) : Start - 2000-01-23 13:04, End - 2000-01-24 09:47
+Pairing 920 (BASE2) : Start - 2000-01-26 16:05, End - 2000-01-27 22:58
+Pairing 39 (BASE2) : Start - 2000-01-29 11:58, End - 2000-01-30 17:56
+
+ 
+Employee 160: 83.56666666666666 Credited Flying Time (In Hours) 
+Pairing 779 (BASE2) : Start - 2000-01-01 10:54, End - 2000-01-01 19:54
+Pairing 1180 (BASE2) : Start - 2000-01-04 21:14, End - 2000-01-06 19:54
+Pairing 187 (BASE2) : Start - 2000-01-08 16:02, End - 2000-01-09 19:58
+Pairing 696 (BASE2) : Start - 2000-01-11 10:37, End - 2000-01-11 21:57
+Pairing 684 (BASE2) : Start - 2000-01-20 10:50, End - 2000-01-21 21:53
+Pairing 957 (BASE2) : Start - 2000-01-25 23:22, End - 2000-01-28 00:45
+Pairing 1452 (BASE2) : Start - 2000-01-30 15:36, End - 2000-02-01 01:05
+
+ 
+Employee 161: 76.08333333333331 Credited Flying Time (In Hours) 
+Pairing 1385 (BASE2) : Start - 2000-01-02 23:25, End - 2000-01-03 23:54
+Pairing 564 (BASE2) : Start - 2000-01-07 16:16, End - 2000-01-08 23:48
+Pairing 771 (BASE2) : Start - 2000-01-10 10:50, End - 2000-01-12 21:53
+Employee Vacation Request: 2000-01-15 00:00 ==> 2000-01-21 23:59
+Pairing 1277 (BASE2) : Start - 2000-01-23 10:42, End - 2000-01-24 15:26
+Pairing 876 (BASE2) : Start - 2000-01-27 11:58, End - 2000-01-27 17:39
+Pairing 53 (BASE2) : Start - 2000-01-29 14:11, End - 2000-01-29 20:41
+Pairing 1473 (BASE2) : Start - 2000-01-30 20:37, End - 2000-01-31 21:06
+
+ 
+Employee 162: 84.78333333333333 Credited Flying Time (In Hours) 
+Pairing 1298 (BASE2) : Start - 2000-01-05 23:23, End - 2000-01-06 19:48
+Pairing 262 (BASE2) : Start - 2000-01-12 19:05, End - 2000-01-15 19:48
+Pairing 548 (BASE2) : Start - 2000-01-17 23:15, End - 2000-01-19 01:52
+Pairing 174 (BASE2) : Start - 2000-01-22 01:11, End - 2000-01-22 12:09
+Pairing 516 (BASE2) : Start - 2000-01-24 23:23, End - 2000-01-25 19:48
+Pairing 865 (BASE2) : Start - 2000-01-27 14:07, End - 2000-01-28 10:37
+Pairing 49 (BASE2) : Start - 2000-01-29 15:34, End - 2000-01-29 22:40
+Pairing 1462 (BASE2) : Start - 2000-01-30 14:00, End - 2000-01-31 16:23
+
+ 
+Employee 163: 81.21666666666665 Credited Flying Time (In Hours) 
+Pairing 804 (BASE2) : Start - 2000-01-01 23:19, End - 2000-01-04 13:21
+Pairing 410 (BASE2) : Start - 2000-01-06 16:05, End - 2000-01-08 19:58
+Pairing 416 (BASE2) : Start - 2000-01-09 10:54, End - 2000-01-09 19:54
+Pairing 761 (BASE2) : Start - 2000-01-10 10:54, End - 2000-01-10 19:54
+Pairing 1106 (BASE2) : Start - 2000-01-18 23:22, End - 2000-01-21 22:13
+Pairing 40 (BASE2) : Start - 2000-01-29 22:04, End - 2000-01-30 03:03
+
+ 
+Employee 164: 80.0 Credited Flying Time (In Hours) 
+Pairing 1388 (BASE2) : Start - 2000-01-02 13:07, End - 2000-01-03 14:57
+Pairing 434 (BASE2) : Start - 2000-01-09 23:22, End - 2000-01-12 02:05
+Pairing 161 (BASE2) : Start - 2000-01-22 16:02, End - 2000-01-25 19:54
+Pairing 875 (BASE2) : Start - 2000-01-27 01:09, End - 2000-01-27 12:57
+Pairing 31 (BASE2) : Start - 2000-01-29 22:06, End - 2000-01-31 23:14
+
+ 
+Employee 165: 84.525 Credited Flying Time (In Hours) 
+Pairing 1299 (BASE2) : Start - 2000-01-05 21:22, End - 2000-01-06 23:54
+Pairing 701 (BASE2) : Start - 2000-01-11 13:07, End - 2000-01-12 14:57
+Pairing 220 (BASE2) : Start - 2000-01-15 23:25, End - 2000-01-19 00:00
+Pairing 977 (BASE2) : Start - 2000-01-21 10:58, End - 2000-01-24 19:58
+Pairing 958 (BASE2) : Start - 2000-01-25 10:50, End - 2000-01-27 19:03
+
+ 
+Employee 166: 79.48333333333335 Credited Flying Time (In Hours) 
+Pairing 793 (BASE2) : Start - 2000-01-01 10:35, End - 2000-01-02 21:53
+Pairing 1306 (BASE2) : Start - 2000-01-05 23:22, End - 2000-01-08 02:05
+Pairing 699 (BASE2) : Start - 2000-01-11 01:09, End - 2000-01-11 11:55
+Pairing 853 (BASE2) : Start - 2000-01-16 22:30, End - 2000-01-18 00:05
+Pairing 689 (BASE2) : Start - 2000-01-20 17:36, End - 2000-01-22 13:21
+Pairing 972 (BASE2) : Start - 2000-01-25 01:11, End - 2000-01-25 12:09
+Pairing 48 (BASE2) : Start - 2000-01-29 02:09, End - 2000-01-29 12:57
+Pairing 1360 (BASE2) : Start - 2000-01-31 00:19, End - 2000-01-31 20:57
+
+ 
+Employee 167: 74.25833333333334 Credited Flying Time (In Hours) 
+Pairing 796 (BASE2) : Start - 2000-01-01 21:22, End - 2000-01-03 21:53
+Pairing 407 (BASE2) : Start - 2000-01-06 10:42, End - 2000-01-07 15:26
+Pairing 263 (BASE2) : Start - 2000-01-12 16:02, End - 2000-01-15 21:53
+Pairing 546 (BASE2) : Start - 2000-01-17 23:25, End - 2000-01-18 23:54
+Pairing 1339 (BASE2) : Start - 2000-01-19 13:04, End - 2000-01-19 23:54
+
+ 
+Employee 168: 81.83333333333333 Credited Flying Time (In Hours) 
+Pairing 782 (BASE2) : Start - 2000-01-01 10:37, End - 2000-01-01 21:57
+Pairing 1293 (BASE2) : Start - 2000-01-05 10:58, End - 2000-01-05 18:01
+Pairing 184 (BASE2) : Start - 2000-01-08 10:37, End - 2000-01-08 21:57
+Pairing 766 (BASE2) : Start - 2000-01-10 16:16, End - 2000-01-11 23:48
+Pairing 266 (BASE2) : Start - 2000-01-12 23:19, End - 2000-01-16 00:00
+Pairing 1095 (BASE2) : Start - 2000-01-18 23:25, End - 2000-01-19 09:47
+Pairing 175 (BASE2) : Start - 2000-01-22 10:54, End - 2000-01-22 19:58
+Employee Vacation Request: 2000-01-24 00:00 ==> 2000-01-29 23:59
+Pairing 1456 (BASE2) : Start - 2000-01-30 20:39, End - 2000-01-31 22:58
+
+ 
+Employee 169: 77.19999999999997 Credited Flying Time (In Hours) 
+Pairing 409 (BASE2) : Start - 2000-01-06 23:15, End - 2000-01-08 01:52
+Pairing 424 (BASE2) : Start - 2000-01-09 16:10, End - 2000-01-10 13:21
+Pairing 697 (BASE2) : Start - 2000-01-11 10:54, End - 2000-01-11 19:54
+Pairing 838 (BASE2) : Start - 2000-01-16 01:11, End - 2000-01-16 12:09
+Pairing 1351 (BASE2) : Start - 2000-01-19 13:05, End - 2000-01-20 15:23
+Pairing 518 (BASE2) : Start - 2000-01-24 16:02, End - 2000-01-27 20:47
+Pairing 1484 (BASE2) : Start - 2000-01-28 14:08, End - 2000-01-29 14:23
+
+ 
+Employee 170: 65.56666666666666 Credited Flying Time (In Hours) 
+Pairing 192 (BASE2) : Start - 2000-01-08 23:25, End - 2000-01-09 23:54
+Pairing 554 (BASE2) : Start - 2000-01-17 23:22, End - 2000-01-21 00:00
+Pairing 984 (BASE2) : Start - 2000-01-21 19:37, End - 2000-01-23 00:00
+Pairing 930 (BASE2) : Start - 2000-01-26 01:09, End - 2000-01-26 11:55
+Pairing 915 (BASE2) : Start - 2000-01-26 23:22, End - 2000-01-28 03:03
+Pairing 1374 (BASE2) : Start - 2000-01-31 11:42, End - 2000-01-31 20:57
+
+ 
+Employee 171: 77.59999999999998 Credited Flying Time (In Hours) 
+Pairing 775 (BASE2) : Start - 2000-01-10 19:05, End - 2000-01-13 04:35
+Pairing 219 (BASE2) : Start - 2000-01-15 16:05, End - 2000-01-18 00:00
+Pairing 693 (BASE2) : Start - 2000-01-20 23:19, End - 2000-01-23 13:21
+Pairing 868 (BASE2) : Start - 2000-01-27 13:55, End - 2000-01-28 20:58
+Pairing 1363 (BASE2) : Start - 2000-01-31 14:11, End - 2000-01-31 20:41
+
+ 
+Employee 172: 76.50000000000001 Credited Flying Time (In Hours) 
+Pairing 1394 (BASE2) : Start - 2000-01-02 23:22, End - 2000-01-05 02:05
+Pairing 264 (BASE2) : Start - 2000-01-12 23:22, End - 2000-01-15 02:05
+Pairing 844 (BASE2) : Start - 2000-01-16 13:05, End - 2000-01-17 15:23
+Pairing 959 (BASE2) : Start - 2000-01-25 19:37, End - 2000-01-27 21:02
+Pairing 33 (BASE2) : Start - 2000-01-29 20:37, End - 2000-01-30 21:06
+
+ 
+Employee 173: 84.12500000000003 Credited Flying Time (In Hours) 
+Pairing 795 (BASE2) : Start - 2000-01-01 13:07, End - 2000-01-02 00:05
+Pairing 1391 (BASE2) : Start - 2000-01-02 23:15, End - 2000-01-04 22:07
+Pairing 194 (BASE2) : Start - 2000-01-08 21:14, End - 2000-01-10 02:05
+Pairing 550 (BASE2) : Start - 2000-01-17 19:05, End - 2000-01-19 19:48
+Pairing 1273 (BASE2) : Start - 2000-01-23 23:15, End - 2000-01-25 01:52
+Pairing 929 (BASE2) : Start - 2000-01-26 01:11, End - 2000-01-26 12:09
+Pairing 1483 (BASE2) : Start - 2000-01-28 14:07, End - 2000-01-29 10:37
+Pairing 1466 (BASE2) : Start - 2000-01-30 18:51, End - 2000-01-31 01:05
+
+ 
+Employee 174: 77.625 Credited Flying Time (In Hours) 
+Pairing 1060 (BASE2) : Start - 2000-01-03 23:25, End - 2000-01-04 23:54
+Pairing 408 (BASE2) : Start - 2000-01-06 16:02, End - 2000-01-08 22:13
+Pairing 251 (BASE2) : Start - 2000-01-12 23:22, End - 2000-01-13 09:58
+Pairing 551 (BASE2) : Start - 2000-01-17 22:30, End - 2000-01-19 00:05
+Pairing 858 (BASE2) : Start - 2000-01-27 22:07, End - 2000-01-29 02:37
+Pairing 37 (BASE2) : Start - 2000-01-29 20:39, End - 2000-01-30 22:58
+Pairing 1372 (BASE2) : Start - 2000-01-31 14:08, End - 2000-02-01 00:46
+
+ 
+Employee 175: 83.8 Credited Flying Time (In Hours) 
+Pairing 1064 (BASE2) : Start - 2000-01-03 12:57, End - 2000-01-04 22:13
+Pairing 1295 (BASE2) : Start - 2000-01-05 13:05, End - 2000-01-06 15:23
+Pairing 763 (BASE2) : Start - 2000-01-10 16:02, End - 2000-01-11 22:07
+Pairing 728 (BASE2) : Start - 2000-01-13 19:37, End - 2000-01-17 00:00
+Pairing 533 (BASE2) : Start - 2000-01-24 01:11, End - 2000-01-24 12:09
+Pairing 872 (BASE2) : Start - 2000-01-27 14:11, End - 2000-01-27 20:41
+Pairing 1485 (BASE2) : Start - 2000-01-28 14:02, End - 2000-01-29 20:42
+
+ 
+Employee 176: 78.43333333333335 Credited Flying Time (In Hours) 
+Pairing 1061 (BASE2) : Start - 2000-01-03 13:04, End - 2000-01-04 09:47
+Pairing 414 (BASE2) : Start - 2000-01-06 23:19, End - 2000-01-09 13:21
+Pairing 1082 (BASE2) : Start - 2000-01-14 16:02, End - 2000-01-16 23:54
+Employee Vacation Request: 2000-01-17 00:00 ==> 2000-01-19 23:59
+Pairing 680 (BASE2) : Start - 2000-01-20 16:06, End - 2000-01-20 22:07
+Pairing 177 (BASE2) : Start - 2000-01-22 10:37, End - 2000-01-22 21:57
+Pairing 1281 (BASE2) : Start - 2000-01-23 23:23, End - 2000-01-24 19:48
+Pairing 869 (BASE2) : Start - 2000-01-27 18:51, End - 2000-01-28 01:05
+
+ 
+Employee 177: 63.99999999999999 Credited Flying Time (In Hours) 
+Pairing 788 (BASE2) : Start - 2000-01-01 16:16, End - 2000-01-02 23:48
+Pairing 195 (BASE2) : Start - 2000-01-08 23:15, End - 2000-01-10 01:52
+Pairing 209 (BASE2) : Start - 2000-01-15 12:57, End - 2000-01-16 22:13
+Pairing 552 (BASE2) : Start - 2000-01-17 16:05, End - 2000-01-20 23:54
+Employee Vacation Request: 2000-01-21 00:00 ==> 2000-01-31 23:59
+
+ 
+Employee 178: 83.5 Credited Flying Time (In Hours) 
+Pairing 1055 (BASE2) : Start - 2000-01-03 10:58, End - 2000-01-03 18:01
+Pairing 193 (BASE2) : Start - 2000-01-08 13:05, End - 2000-01-09 15:23
+Pairing 1109 (BASE2) : Start - 2000-01-18 10:50, End - 2000-01-22 00:00
+Pairing 176 (BASE2) : Start - 2000-01-22 10:50, End - 2000-01-22 18:17
+Pairing 1276 (BASE2) : Start - 2000-01-23 23:25, End - 2000-01-24 23:54
+Pairing 857 (BASE2) : Start - 2000-01-27 22:22, End - 2000-01-29 21:06
+Pairing 1468 (BASE2) : Start - 2000-01-30 14:02, End - 2000-01-31 20:42
+
+ 
+Employee 179: 73.18333333333335 Credited Flying Time (In Hours) 
+Pairing 1071 (BASE2) : Start - 2000-01-03 23:22, End - 2000-01-06 19:58
+Pairing 563 (BASE2) : Start - 2000-01-07 16:10, End - 2000-01-08 13:21
+Employee Vacation Request: 2000-01-09 00:00 ==> 2000-01-19 23:59
+Pairing 982 (BASE2) : Start - 2000-01-21 23:25, End - 2000-01-23 19:58
+Pairing 867 (BASE2) : Start - 2000-01-27 20:41, End - 2000-01-28 23:14
+Pairing 1463 (BASE2) : Start - 2000-01-30 11:42, End - 2000-01-31 16:18
+
+ 
+Employee 180: 72.21666666666665 Credited Flying Time (In Hours) 
+Pairing 1167 (BASE2) : Start - 2000-01-04 01:09, End - 2000-01-04 11:55
+Pairing 1181 (BASE2) : Start - 2000-01-04 23:15, End - 2000-01-06 21:57
+Pairing 555 (BASE2) : Start - 2000-01-07 23:23, End - 2000-01-08 19:48
+Pairing 703 (BASE2) : Start - 2000-01-11 23:23, End - 2000-01-12 19:48
+Pairing 721 (BASE2) : Start - 2000-01-13 22:30, End - 2000-01-14 23:55
+Pairing 1342 (BASE2) : Start - 2000-01-19 16:02, End - 2000-01-19 22:13
+Pairing 528 (BASE2) : Start - 2000-01-24 13:05, End - 2000-01-25 15:23
+Pairing 860 (BASE2) : Start - 2000-01-27 17:05, End - 2000-01-28 02:37
+
+ 
+Employee 181: 75.4 Credited Flying Time (In Hours) 
+Pairing 1390 (BASE2) : Start - 2000-01-02 13:04, End - 2000-01-03 09:47
+Pairing 190 (BASE2) : Start - 2000-01-08 13:07, End - 2000-01-09 14:57
+Pairing 772 (BASE2) : Start - 2000-01-10 23:23, End - 2000-01-12 01:52
+Pairing 836 (BASE2) : Start - 2000-01-16 10:50, End - 2000-01-16 18:17
+Pairing 537 (BASE2) : Start - 2000-01-17 10:54, End - 2000-01-17 19:54
+Pairing 1344 (BASE2) : Start - 2000-01-19 10:37, End - 2000-01-19 21:57
+Pairing 530 (BASE2) : Start - 2000-01-24 13:07, End - 2000-01-25 14:57
+Pairing 36 (BASE2) : Start - 2000-01-29 11:42, End - 2000-01-30 16:18
+
+ 
+Employee 182: 38.46666666666668 Credited Flying Time (In Hours) 
+Pairing 770 (BASE2) : Start - 2000-01-10 23:22, End - 2000-01-12 19:54
+Employee Vacation Request: 2000-01-13 00:00 ==> 2000-01-24 23:59
+Pairing 1080 (BASE2) : Start - 2000-01-14 23:25, End - 2000-01-15 23:54
+Pairing 922 (BASE2) : Start - 2000-01-26 16:10, End - 2000-01-27 19:34
+
+ 
+Employee 183: 59.23333333333331 Credited Flying Time (In Hours) 
+Pairing 1058 (BASE2) : Start - 2000-01-03 10:37, End - 2000-01-03 21:57
+Pairing 183 (BASE2) : Start - 2000-01-08 10:54, End - 2000-01-08 19:54
+Pairing 1079 (BASE2) : Start - 2000-01-14 10:42, End - 2000-01-15 15:26
+Pairing 540 (BASE2) : Start - 2000-01-17 01:11, End - 2000-01-17 12:09
+Pairing 1099 (BASE2) : Start - 2000-01-18 14:40, End - 2000-01-19 19:54
+Pairing 856 (BASE2) : Start - 2000-01-27 15:21, End - 2000-01-30 16:10
+
+ 
+Employee 184: 81.63333333333335 Credited Flying Time (In Hours) 
+Pairing 799 (BASE2) : Start - 2000-01-01 23:23, End - 2000-01-03 01:52
+Pairing 1304 (BASE2) : Start - 2000-01-05 19:37, End - 2000-01-07 00:00
+Pairing 698 (BASE2) : Start - 2000-01-11 01:11, End - 2000-01-11 12:09
+Pairing 704 (BASE2) : Start - 2000-01-11 23:22, End - 2000-01-12 20:15
+Pairing 725 (BASE2) : Start - 2000-01-13 23:22, End - 2000-01-16 02:05
+Pairing 1094 (BASE2) : Start - 2000-01-18 23:23, End - 2000-01-19 19:48
+Pairing 1495 (BASE2) : Start - 2000-01-28 15:34, End - 2000-01-28 22:40
+Pairing 1454 (BASE2) : Start - 2000-01-30 00:19, End - 2000-01-31 01:08
+
+ 
+Employee 185: 82.10833333333332 Credited Flying Time (In Hours) 
+Pairing 776 (BASE2) : Start - 2000-01-01 13:49, End - 2000-01-01 23:48
+Pairing 1068 (BASE2) : Start - 2000-01-03 22:30, End - 2000-01-05 00:05
+Pairing 758 (BASE2) : Start - 2000-01-10 01:09, End - 2000-01-10 11:55
+Pairing 764 (BASE2) : Start - 2000-01-10 23:25, End - 2000-01-11 23:54
+Pairing 257 (BASE2) : Start - 2000-01-12 16:05, End - 2000-01-13 22:07
+Pairing 207 (BASE2) : Start - 2000-01-15 13:04, End - 2000-01-16 09:47
+Pairing 536 (BASE2) : Start - 2000-01-17 23:23, End - 2000-01-18 19:48
+Pairing 165 (BASE2) : Start - 2000-01-22 23:19, End - 2000-01-24 00:00
+Pairing 54 (BASE2) : Start - 2000-01-29 00:22, End - 2000-01-29 21:05
+
+ 
+Employee 186: 82.71666666666668 Credited Flying Time (In Hours) 
+Pairing 1387 (BASE2) : Start - 2000-01-02 23:23, End - 2000-01-03 19:48
+Pairing 404 (BASE2) : Start - 2000-01-06 16:10, End - 2000-01-07 13:21
+Pairing 431 (BASE2) : Start - 2000-01-09 21:22, End - 2000-01-11 19:58
+Pairing 1338 (BASE2) : Start - 2000-01-19 16:06, End - 2000-01-19 22:07
+Pairing 679 (BASE2) : Start - 2000-01-20 10:37, End - 2000-01-20 21:57
+Pairing 980 (BASE2) : Start - 2000-01-21 23:19, End - 2000-01-24 13:21
+Pairing 863 (BASE2) : Start - 2000-01-27 20:00, End - 2000-01-29 01:03
+
+ 
+Employee 187: 84.60000000000001 Credited Flying Time (In Hours) 
+Pairing 791 (BASE2) : Start - 2000-01-01 13:07, End - 2000-01-02 14:57
+Pairing 1170 (BASE2) : Start - 2000-01-04 23:23, End - 2000-01-05 19:48
+Pairing 405 (BASE2) : Start - 2000-01-06 13:07, End - 2000-01-07 14:57
+Pairing 191 (BASE2) : Start - 2000-01-08 10:42, End - 2000-01-09 15:26
+Employee Vacation Request: 2000-01-11 00:00 ==> 2000-01-19 23:59
+Pairing 167 (BASE2) : Start - 2000-01-22 13:04, End - 2000-01-23 09:47
+Pairing 1270 (BASE2) : Start - 2000-01-23 23:22, End - 2000-01-26 02:05
+Pairing 1458 (BASE2) : Start - 2000-01-30 23:55, End - 2000-02-01 00:56
+
+ 
+Employee 188: 77.45 Credited Flying Time (In Hours) 
+Pairing 1169 (BASE2) : Start - 2000-01-04 10:54, End - 2000-01-04 19:58
+Employee Vacation Request: 2000-01-05 00:00 ==> 2000-01-10 23:59
+Pairing 707 (BASE2) : Start - 2000-01-11 21:14, End - 2000-01-13 19:58
+Pairing 840 (BASE2) : Start - 2000-01-16 10:37, End - 2000-01-16 21:57
+Pairing 1353 (BASE2) : Start - 2000-01-19 21:14, End - 2000-01-21 02:05
+Pairing 1284 (BASE2) : Start - 2000-01-23 01:11, End - 2000-01-23 12:09
+Pairing 519 (BASE2) : Start - 2000-01-24 23:19, End - 2000-01-26 22:07
+Pairing 1480 (BASE2) : Start - 2000-01-28 20:41, End - 2000-01-29 23:14
+Pairing 1362 (BASE2) : Start - 2000-01-31 02:09, End - 2000-01-31 12:57
+
+ 
+Employee 189: 72.91666666666669 Credited Flying Time (In Hours) 
+Pairing 790 (BASE2) : Start - 2000-01-01 23:25, End - 2000-01-02 23:54
+Pairing 199 (BASE2) : Start - 2000-01-08 23:22, End - 2000-01-11 02:05
+Pairing 724 (BASE2) : Start - 2000-01-13 16:05, End - 2000-01-15 01:52
+Pairing 545 (BASE2) : Start - 2000-01-17 10:42, End - 2000-01-18 15:26
+Pairing 690 (BASE2) : Start - 2000-01-20 19:05, End - 2000-01-22 23:48
+Pairing 47 (BASE2) : Start - 2000-01-29 02:06, End - 2000-01-29 13:06
+
+ 
+Employee 190: 64.60000000000001 Credited Flying Time (In Hours) 
+Pairing 1183 (BASE2) : Start - 2000-01-04 23:19, End - 2000-01-07 02:05
+Pairing 1091 (BASE2) : Start - 2000-01-18 01:11, End - 2000-01-18 12:09
+Pairing 1350 (BASE2) : Start - 2000-01-19 13:07, End - 2000-01-20 14:57
+Pairing 526 (BASE2) : Start - 2000-01-24 12:57, End - 2000-01-25 22:13
+Pairing 917 (BASE2) : Start - 2000-01-26 23:15, End - 2000-01-28 23:14
+
+ 
+Employee 191: 81.18333333333331 Credited Flying Time (In Hours) 
+Pairing 1053 (BASE2) : Start - 2000-01-03 10:54, End - 2000-01-03 19:58
+Pairing 1178 (BASE2) : Start - 2000-01-04 23:22, End - 2000-01-06 21:53
+Pairing 185 (BASE2) : Start - 2000-01-08 01:09, End - 2000-01-08 11:55
+Pairing 760 (BASE2) : Start - 2000-01-10 01:11, End - 2000-01-10 12:09
+Pairing 215 (BASE2) : Start - 2000-01-15 16:02, End - 2000-01-17 13:21
+Pairing 1346 (BASE2) : Start - 2000-01-19 11:00, End - 2000-01-20 09:47
+Pairing 534 (BASE2) : Start - 2000-01-24 01:09, End - 2000-01-24 11:55
+Pairing 914 (BASE2) : Start - 2000-01-26 19:05, End - 2000-01-29 19:03
+
+ 
+Employee 192: 84.6 Credited Flying Time (In Hours) 
+Pairing 1393 (BASE2) : Start - 2000-01-02 22:30, End - 2000-01-04 00:05
+Pairing 571 (BASE2) : Start - 2000-01-07 23:15, End - 2000-01-09 01:52
+Pairing 705 (BASE2) : Start - 2000-01-11 13:05, End - 2000-01-12 15:23
+Pairing 854 (BASE2) : Start - 2000-01-16 23:22, End - 2000-01-19 02:05
+Pairing 985 (BASE2) : Start - 2000-01-21 13:04, End - 2000-01-22 09:47
+Pairing 168 (BASE2) : Start - 2000-01-22 23:25, End - 2000-01-23 23:54
+Employee Vacation Request: 2000-01-25 00:00 ==> 2000-01-29 23:59
+Pairing 1459 (BASE2) : Start - 2000-01-30 14:08, End - 2000-01-31 20:58
+
+ 
+Employee 193: 78.51666666666668 Credited Flying Time (In Hours) 
+Pairing 797 (BASE2) : Start - 2000-01-01 16:05, End - 2000-01-03 13:21
+Pairing 718 (BASE2) : Start - 2000-01-13 13:07, End - 2000-01-14 14:57
+Pairing 1093 (BASE2) : Start - 2000-01-18 01:09, End - 2000-01-18 11:55
+Pairing 991 (BASE2) : Start - 2000-01-21 01:11, End - 2000-01-21 12:09
+Pairing 164 (BASE2) : Start - 2000-01-22 19:05, End - 2000-01-24 19:48
+Pairing 926 (BASE2) : Start - 2000-01-26 13:07, End - 2000-01-27 10:54
+Pairing 1497 (BASE2) : Start - 2000-01-28 18:51, End - 2000-01-29 01:05
+Pairing 46 (BASE2) : Start - 2000-01-29 14:07, End - 2000-01-30 10:37
+
+ 
+Employee 194: 81.80000000000001 Credited Flying Time (In Hours) 
+Pairing 1172 (BASE2) : Start - 2000-01-04 13:05, End - 2000-01-05 09:43
+Pairing 420 (BASE2) : Start - 2000-01-09 10:55, End - 2000-01-09 19:49
+Pairing 847 (BASE2) : Start - 2000-01-16 13:07, End - 2000-01-17 14:57
+Pairing 1101 (BASE2) : Start - 2000-01-18 19:05, End - 2000-01-19 19:58
+Pairing 979 (BASE2) : Start - 2000-01-21 23:22, End - 2000-01-24 22:13
+Pairing 859 (BASE2) : Start - 2000-01-27 17:10, End - 2000-01-28 14:23
+Pairing 1475 (BASE2) : Start - 2000-01-30 22:22, End - 2000-01-31 20:47
+
+ 
+Employee 195: 46.38333333333334 Credited Flying Time (In Hours) 
+Pairing 406 (BASE2) : Start - 2000-01-06 12:57, End - 2000-01-07 22:13
+Pairing 1340 (BASE2) : Start - 2000-01-19 01:11, End - 2000-01-19 12:09
+Pairing 162 (BASE2) : Start - 2000-01-22 23:23, End - 2000-01-24 01:52
+Pairing 29 (BASE2) : Start - 2000-01-29 23:55, End - 2000-01-31 21:02
+
+ 
+Employee 196: 82.98333333333333 Credited Flying Time (In Hours) 
+Pairing 1382 (BASE2) : Start - 2000-01-02 01:11, End - 2000-01-02 12:09
+Pairing 767 (BASE2) : Start - 2000-01-10 13:07, End - 2000-01-11 14:57
+Pairing 1092 (BASE2) : Start - 2000-01-18 16:06, End - 2000-01-18 22:07
+Pairing 681 (BASE2) : Start - 2000-01-20 10:58, End - 2000-01-20 18:01
+Pairing 976 (BASE2) : Start - 2000-01-21 16:02, End - 2000-01-24 19:54
+Pairing 918 (BASE2) : Start - 2000-01-26 23:19, End - 2000-01-28 21:06
+Pairing 1461 (BASE2) : Start - 2000-01-30 11:39, End - 2000-01-31 23:09
+
+ 
+Employee 197: 68.83333333333334 Credited Flying Time (In Hours) 
+Pairing 412 (BASE2) : Start - 2000-01-06 22:30, End - 2000-01-08 00:05
+Pairing 422 (BASE2) : Start - 2000-01-09 13:04, End - 2000-01-10 09:47
+Pairing 265 (BASE2) : Start - 2000-01-12 23:15, End - 2000-01-15 13:21
+Pairing 678 (BASE2) : Start - 2000-01-20 23:23, End - 2000-01-21 19:48
+Pairing 521 (BASE2) : Start - 2000-01-24 19:05, End - 2000-01-26 19:48
+
+ 
+Employee 198: 60.6333333333333 Credited Flying Time (In Hours) 
+Pairing 1386 (BASE2) : Start - 2000-01-02 13:05, End - 2000-01-03 15:23
+Pairing 710 (BASE2) : Start - 2000-01-11 19:37, End - 2000-01-14 01:52
+Pairing 1087 (BASE2) : Start - 2000-01-14 21:14, End - 2000-01-17 19:58
+Pairing 1472 (BASE2) : Start - 2000-01-30 15:34, End - 2000-01-30 22:40
+
+ 
+Employee 199: 62.56666666666666 Credited Flying Time (In Hours) 
+Pairing 1173 (BASE2) : Start - 2000-01-04 13:04, End - 2000-01-05 09:47
+Pairing 1301 (BASE2) : Start - 2000-01-05 23:15, End - 2000-01-07 01:52
+Pairing 189 (BASE2) : Start - 2000-01-08 13:04, End - 2000-01-09 09:47
+Employee Vacation Request: 2000-01-13 00:00 ==> 2000-01-23 23:59
+Pairing 525 (BASE2) : Start - 2000-01-24 21:22, End - 2000-01-25 19:48
+Pairing 927 (BASE2) : Start - 2000-01-26 13:05, End - 2000-01-27 10:43
+Pairing 1451 (BASE2) : Start - 2000-01-30 00:15, End - 2000-01-31 17:56
+
+ 
+Employee 200: 76.81666666666666 Credited Flying Time (In Hours) 
+Pairing 787 (BASE2) : Start - 2000-01-01 16:10, End - 2000-01-02 13:21
+Pairing 1065 (BASE2) : Start - 2000-01-03 23:15, End - 2000-01-05 01:52
+Pairing 717 (BASE2) : Start - 2000-01-13 16:16, End - 2000-01-14 23:48
+Pairing 216 (BASE2) : Start - 2000-01-15 22:30, End - 2000-01-17 00:05
+Pairing 1100 (BASE2) : Start - 2000-01-18 13:05, End - 2000-01-19 15:23
+Pairing 169 (BASE2) : Start - 2000-01-22 13:07, End - 2000-01-23 14:57
+Pairing 874 (BASE2) : Start - 2000-01-27 15:21, End - 2000-01-27 23:16
+
+ 
+Employee 201: 48.508333333333326 Credited Flying Time (In Hours) 
+Pairing 567 (BASE2) : Start - 2000-01-07 01:06, End - 2000-01-08 09:58
+Employee Vacation Request: 2000-01-09 00:00 ==> 2000-01-20 23:59
+Pairing 213 (BASE2) : Start - 2000-01-15 13:07, End - 2000-01-16 00:05
+Pairing 987 (BASE2) : Start - 2000-01-21 13:05, End - 2000-01-22 15:23
+Pairing 1274 (BASE2) : Start - 2000-01-23 22:30, End - 2000-01-25 00:05
+Pairing 925 (BASE2) : Start - 2000-01-26 23:25, End - 2000-01-27 10:47
+
+ 
+Employee 202: 53.38333333333334 Credited Flying Time (In Hours) 
+Pairing 1296 (BASE2) : Start - 2000-01-05 10:42, End - 2000-01-06 15:26
+Pairing 1085 (BASE2) : Start - 2000-01-14 21:22, End - 2000-01-17 22:13
+Pairing 981 (BASE2) : Start - 2000-01-21 23:15, End - 2000-01-23 01:52
+Pairing 862 (BASE2) : Start - 2000-01-27 22:06, End - 2000-01-28 09:29
+
+ 
+Employee 203: 57.82499999999999 Credited Flying Time (In Hours) 
+Pairing 1182 (BASE2) : Start - 2000-01-04 16:10, End - 2000-01-07 12:18
+Employee Vacation Request: 2000-01-08 00:00 ==> 2000-01-13 23:59
+Pairing 852 (BASE2) : Start - 2000-01-16 23:23, End - 2000-01-18 01:52
+Pairing 688 (BASE2) : Start - 2000-01-20 23:15, End - 2000-01-22 02:05
+Pairing 30 (BASE2) : Start - 2000-01-29 02:21, End - 2000-01-30 23:14
+
+ 
+Employee 204: 66.39999999999998 Credited Flying Time (In Hours) 
+Pairing 1297 (BASE2) : Start - 2000-01-05 13:07, End - 2000-01-06 14:57
+Pairing 426 (BASE2) : Start - 2000-01-09 12:57, End - 2000-01-10 22:13
+Pairing 1088 (BASE2) : Start - 2000-01-14 23:19, End - 2000-01-17 20:15
+Pairing 694 (BASE2) : Start - 2000-01-20 23:22, End - 2000-01-23 02:05
+
+ 
+Employee 205: 81.01666666666665 Credited Flying Time (In Hours) 
+Pairing 805 (BASE2) : Start - 2000-01-01 19:37, End - 2000-01-04 21:53
+Pairing 200 (BASE2) : Start - 2000-01-08 23:19, End - 2000-01-11 13:21
+Employee Vacation Request: 2000-01-14 00:00 ==> 2000-01-22 23:59
+Pairing 916 (BASE2) : Start - 2000-01-26 15:57, End - 2000-01-28 19:03
+Pairing 1457 (BASE2) : Start - 2000-01-30 00:22, End - 2000-01-31 10:38
+
+ 
+Employee 206: 77.66666666666667 Credited Flying Time (In Hours) 
+Pairing 1057 (BASE2) : Start - 2000-01-03 01:11, End - 2000-01-03 12:09
+Pairing 574 (BASE2) : Start - 2000-01-07 23:22, End - 2000-01-10 19:48
+Pairing 1089 (BASE2) : Start - 2000-01-14 19:05, End - 2000-01-17 22:07
+Pairing 524 (BASE2) : Start - 2000-01-24 13:04, End - 2000-01-25 09:47
+Pairing 35 (BASE2) : Start - 2000-01-29 22:00, End - 2000-01-31 14:23
+
+ 
+Employee 207: 52.30833333333332 Credited Flying Time (In Hours) 
+Pairing 802 (BASE2) : Start - 2000-01-01 10:58, End - 2000-01-04 01:52
+Pairing 559 (BASE2) : Start - 2000-01-07 10:54, End - 2000-01-07 19:58
+Pairing 542 (BASE2) : Start - 2000-01-17 10:50, End - 2000-01-18 21:53
+Pairing 970 (BASE2) : Start - 2000-01-25 10:42, End - 2000-01-26 15:26
+
+ 
+Employee 208: 22.766666666666673 Credited Flying Time (In Hours) 
+Pairing 798 (BASE2) : Start - 2000-01-01 21:14, End - 2000-01-03 02:05
+Employee Vacation Request: 2000-01-08 00:00 ==> 2000-01-16 23:59
+Pairing 1492 (BASE2) : Start - 2000-01-28 23:55, End - 2000-01-30 00:46
+
+ 
+Employee 209: 65.76666666666668 Credited Flying Time (In Hours) 
+Pairing 794 (BASE2) : Start - 2000-01-01 13:05, End - 2000-01-02 15:23
+Employee Vacation Request: 2000-01-02 00:00 ==> 2000-01-10 23:59
+Pairing 727 (BASE2) : Start - 2000-01-13 19:05, End - 2000-01-16 19:58
+Pairing 1349 (BASE2) : Start - 2000-01-19 16:16, End - 2000-01-20 23:48
+Pairing 1460 (BASE2) : Start - 2000-01-30 17:18, End - 2000-02-01 02:50
+
+ 
+Employee 210: 60.15 Credited Flying Time (In Hours) 
+Pairing 1392 (BASE2) : Start - 2000-01-02 16:05, End - 2000-01-04 19:48
+Pairing 560 (BASE2) : Start - 2000-01-07 21:22, End - 2000-01-08 19:48
+Pairing 421 (BASE2) : Start - 2000-01-09 19:05, End - 2000-01-10 19:58
+Pairing 967 (BASE2) : Start - 2000-01-25 23:23, End - 2000-01-26 19:48
+Pairing 38 (BASE2) : Start - 2000-01-29 20:41, End - 2000-01-30 23:14
+
+ 
+Employee 211: 81.83333333333333 Credited Flying Time (In Hours) 
+Employee Vacation Request: 2000-01-03 00:00 ==> 2000-01-14 23:59
+Pairing 719 (BASE2) : Start - 2000-01-13 23:23, End - 2000-01-14 19:48
+Pairing 211 (BASE2) : Start - 2000-01-15 16:10, End - 2000-01-16 13:21
+Pairing 1098 (BASE2) : Start - 2000-01-18 12:57, End - 2000-01-19 22:13
+Pairing 983 (BASE2) : Start - 2000-01-21 22:30, End - 2000-01-23 00:05
+Pairing 1269 (BASE2) : Start - 2000-01-23 19:05, End - 2000-01-26 01:52
+Pairing 1489 (BASE2) : Start - 2000-01-28 00:19, End - 2000-01-29 21:02
+Pairing 1373 (BASE2) : Start - 2000-01-31 14:00, End - 2000-02-01 00:56
+
+ 
+Employee 212: 40.48333333333334 Credited Flying Time (In Hours) 
+Employee Vacation Request: 2000-01-03 00:00 ==> 2000-01-13 23:59
+Pairing 255 (BASE2) : Start - 2000-01-12 13:49, End - 2000-01-13 15:26
+Pairing 870 (BASE2) : Start - 2000-01-27 14:02, End - 2000-01-28 01:03
+Pairing 1479 (BASE2) : Start - 2000-01-28 15:23, End - 2000-01-31 16:10
+
+ 
+Employee 213: 75.13333333333334 Credited Flying Time (In Hours) 
+Pairing 1395 (BASE2) : Start - 2000-01-02 23:19, End - 2000-01-05 19:58
+Pairing 709 (BASE2) : Start - 2000-01-11 23:19, End - 2000-01-14 13:21
+Pairing 846 (BASE2) : Start - 2000-01-16 23:25, End - 2000-01-17 23:54
+Pairing 1105 (BASE2) : Start - 2000-01-18 23:19, End - 2000-01-20 00:00
+Pairing 52 (BASE2) : Start - 2000-01-29 00:19, End - 2000-01-29 20:57
+
+ 
+Employee 214: 40.46666666666669 Credited Flying Time (In Hours) 
+Pairing 435 (BASE2) : Start - 2000-01-09 19:37, End - 2000-01-12 22:13
+Pairing 720 (BASE2) : Start - 2000-01-13 23:25, End - 2000-01-14 23:54
+Pairing 1494 (BASE2) : Start - 2000-01-28 02:23, End - 2000-01-28 13:05
+Pairing 1366 (BASE2) : Start - 2000-01-31 02:06, End - 2000-01-31 13:06
+
+ 
+Employee 215: 70.21666666666667 Credited Flying Time (In Hours) 
+Pairing 1379 (BASE2) : Start - 2000-01-02 10:37, End - 2000-01-02 21:57
+Pairing 430 (BASE2) : Start - 2000-01-09 13:05, End - 2000-01-11 09:58
+Pairing 252 (BASE2) : Start - 2000-01-12 23:23, End - 2000-01-13 19:48
+Pairing 212 (BASE2) : Start - 2000-01-15 23:23, End - 2000-01-16 19:48
+Pairing 1358 (BASE2) : Start - 2000-01-19 14:24, End - 2000-01-22 19:49
+
+ 
+Employee 216: 74.34999999999998 Credited Flying Time (In Hours) 
+Pairing 1168 (BASE2) : Start - 2000-01-04 10:37, End - 2000-01-04 21:57
+Pairing 1300 (BASE2) : Start - 2000-01-05 11:00, End - 2000-01-06 09:47
+Pairing 556 (BASE2) : Start - 2000-01-07 01:09, End - 2000-01-07 11:55
+Pairing 562 (BASE2) : Start - 2000-01-07 23:25, End - 2000-01-08 23:54
+Pairing 253 (BASE2) : Start - 2000-01-12 16:10, End - 2000-01-13 13:21
+Pairing 217 (BASE2) : Start - 2000-01-15 23:22, End - 2000-01-18 22:13
+Pairing 45 (BASE2) : Start - 2000-01-29 17:06, End - 2000-01-29 23:09
+Pairing 1361 (BASE2) : Start - 2000-01-31 15:34, End - 2000-01-31 22:40
+
+ 
+Employee 217: 77.4083333333333 Credited Flying Time (In Hours) 
+Pairing 777 (BASE2) : Start - 2000-01-01 13:04, End - 2000-01-01 23:54
+Pairing 1069 (BASE2) : Start - 2000-01-03 19:05, End - 2000-01-06 19:48
+Pairing 256 (BASE2) : Start - 2000-01-12 12:57, End - 2000-01-13 16:51
+Pairing 1354 (BASE2) : Start - 2000-01-19 23:25, End - 2000-01-21 04:35
+Pairing 170 (BASE2) : Start - 2000-01-22 16:16, End - 2000-01-23 23:48
+Pairing 968 (BASE2) : Start - 2000-01-25 13:05, End - 2000-01-26 15:23
+
+ 
+Employee 218: 32.383333333333326 Credited Flying Time (In Hours) 
+Employee Vacation Request: 2000-01-12 00:00 ==> 2000-01-23 23:59
+Pairing 1097 (BASE2) : Start - 2000-01-18 23:25, End - 2000-01-19 23:54
+Pairing 864 (BASE2) : Start - 2000-01-27 20:39, End - 2000-01-28 22:58
+Pairing 1471 (BASE2) : Start - 2000-01-30 02:09, End - 2000-01-30 12:57
+Pairing 1365 (BASE2) : Start - 2000-01-31 02:21, End - 2000-02-01 00:45
+
+ 
+Employee 219: 72.96666666666667 Credited Flying Time (In Hours) 
+Pairing 783 (BASE2) : Start - 2000-01-01 12:57, End - 2000-01-02 22:13
+Pairing 1177 (BASE2) : Start - 2000-01-04 22:30, End - 2000-01-05 23:55
+Pairing 561 (BASE2) : Start - 2000-01-07 13:04, End - 2000-01-08 09:47
+Pairing 419 (BASE2) : Start - 2000-01-09 16:06, End - 2000-01-09 22:07
+Pairing 989 (BASE2) : Start - 2000-01-21 13:07, End - 2000-01-22 14:57
+Pairing 1271 (BASE2) : Start - 2000-01-23 10:50, End - 2000-01-26 21:53
+
+ 
+Employee 220: 59.56666666666668 Credited Flying Time (In Hours) 
+Pairing 1307 (BASE2) : Start - 2000-01-05 16:05, End - 2000-01-08 00:00
+Pairing 188 (BASE2) : Start - 2000-01-08 23:23, End - 2000-01-09 19:48
+Pairing 768 (BASE2) : Start - 2000-01-10 13:05, End - 2000-01-11 09:43
+Pairing 1272 (BASE2) : Start - 2000-01-23 16:02, End - 2000-01-26 00:00
+
+ 
+Employee 221: 81.94999999999999 Credited Flying Time (In Hours) 
+Pairing 1067 (BASE2) : Start - 2000-01-03 19:37, End - 2000-01-05 22:07
+Pairing 197 (BASE2) : Start - 2000-01-08 22:30, End - 2000-01-10 00:05
+Pairing 845 (BASE2) : Start - 2000-01-16 13:04, End - 2000-01-17 09:47
+Pairing 1103 (BASE2) : Start - 2000-01-18 10:55, End - 2000-01-20 19:57
+Pairing 973 (BASE2) : Start - 2000-01-25 01:09, End - 2000-01-25 11:55
+Pairing 924 (BASE2) : Start - 2000-01-26 13:04, End - 2000-01-27 10:47
+Pairing 1481 (BASE2) : Start - 2000-01-28 20:39, End - 2000-01-29 22:58
+
+ 
+Employee 222: 64.43333333333334 Credited Flying Time (In Hours) 
+Pairing 1070 (BASE2) : Start - 2000-01-03 23:19, End - 2000-01-06 13:21
+Pairing 700 (BASE2) : Start - 2000-01-11 10:42, End - 2000-01-12 15:26
+Pairing 723 (BASE2) : Start - 2000-01-13 14:40, End - 2000-01-15 14:57
+Employee Vacation Request: 2000-01-24 00:00 ==> 2000-01-31 23:59
+Pairing 1368 (BASE2) : Start - 2000-01-31 00:22, End - 2000-01-31 21:05
+
+ 
+Employee 223: 65.98333333333332 Credited Flying Time (In Hours) 
+Pairing 428 (BASE2) : Start - 2000-01-09 10:42, End - 2000-01-10 15:23
+Pairing 539 (BASE2) : Start - 2000-01-17 01:09, End - 2000-01-17 11:55
+Pairing 1356 (BASE2) : Start - 2000-01-19 19:37, End - 2000-01-22 04:35
+Pairing 1275 (BASE2) : Start - 2000-01-23 13:07, End - 2000-01-24 14:57
+Pairing 855 (BASE2) : Start - 2000-01-27 20:37, End - 2000-01-30 21:02
+
+ 
+Employee 224: 48.66666666666667 Credited Flying Time (In Hours) 
+Pairing 1305 (BASE2) : Start - 2000-01-05 22:30, End - 2000-01-07 00:05
+Pairing 714 (BASE2) : Start - 2000-01-13 10:35, End - 2000-01-13 19:54
+Pairing 1104 (BASE2) : Start - 2000-01-18 22:30, End - 2000-01-20 00:05
+Pairing 682 (BASE2) : Start - 2000-01-20 10:42, End - 2000-01-21 15:26
+Pairing 166 (BASE2) : Start - 2000-01-22 22:30, End - 2000-01-24 00:05
+
+ 
+Employee 225: 82.06666666666665 Credited Flying Time (In Hours) 
+Pairing 806 (BASE2) : Start - 2000-01-01 19:05, End - 2000-01-04 00:00
+Pairing 774 (BASE2) : Start - 2000-01-10 22:30, End - 2000-01-12 00:05
+Pairing 218 (BASE2) : Start - 2000-01-15 23:19, End - 2000-01-18 20:15
+Pairing 1280 (BASE2) : Start - 2000-01-23 23:19, End - 2000-01-24 23:48
+Pairing 1491 (BASE2) : Start - 2000-01-28 00:15, End - 2000-01-29 17:56
+Pairing 1370 (BASE2) : Start - 2000-01-31 00:15, End - 2000-01-31 20:51
+
+ 
+Employee 226: 64.19999999999999 Credited Flying Time (In Hours) 
+Pairing 1056 (BASE2) : Start - 2000-01-03 16:06, End - 2000-01-03 22:07
+Pairing 1308 (BASE2) : Start - 2000-01-05 23:25, End - 2000-01-09 00:00
+Pairing 716 (BASE2) : Start - 2000-01-13 01:06, End - 2000-01-14 09:43
+Pairing 206 (BASE2) : Start - 2000-01-15 01:09, End - 2000-01-15 11:55
+Pairing 691 (BASE2) : Start - 2000-01-20 22:30, End - 2000-01-22 00:05
+Pairing 522 (BASE2) : Start - 2000-01-24 22:30, End - 2000-01-26 00:05
+
+ 
+Employee 227: 53.499999999999986 Credited Flying Time (In Hours) 
+Pairing 1396 (BASE2) : Start - 2000-01-02 21:14, End - 2000-01-05 00:00
+Pairing 708 (BASE2) : Start - 2000-01-11 21:22, End - 2000-01-14 22:13
+Employee Vacation Request: 2000-01-25 00:00 ==> 2000-01-29 23:59
+Pairing 1367 (BASE2) : Start - 2000-01-31 00:23, End - 2000-02-01 01:03
+
+ 
+Employee 228: 79.30833333333334 Credited Flying Time (In Hours) 
+Pairing 726 (BASE2) : Start - 2000-01-13 17:33, End - 2000-01-16 04:35
+Pairing 1357 (BASE2) : Start - 2000-01-19 23:22, End - 2000-01-22 23:54
+Pairing 969 (BASE2) : Start - 2000-01-25 13:07, End - 2000-01-26 14:57
+Pairing 871 (BASE2) : Start - 2000-01-27 11:37, End - 2000-01-27 21:06
+Pairing 34 (BASE2) : Start - 2000-01-29 22:07, End - 2000-01-31 23:16
+
+ 
+Employee 229: 36.200000000000024 Credited Flying Time (In Hours) 
+Pairing 572 (BASE2) : Start - 2000-01-07 23:19, End - 2000-01-09 21:57
+Pairing 715 (BASE2) : Start - 2000-01-13 13:04, End - 2000-01-14 09:47
+Employee Vacation Request: 2000-01-19 00:00 ==> 2000-01-23 23:59
+Pairing 921 (BASE2) : Start - 2000-01-26 01:06, End - 2000-01-27 10:30
+
+ 
+Employee 230: 29.166666666666668 Credited Flying Time (In Hours) 
+Pairing 247 (BASE2) : Start - 2000-01-12 01:11, End - 2000-01-12 12:09
+Employee Vacation Request: 2000-01-17 00:00 ==> 2000-01-21 23:59
+Pairing 171 (BASE2) : Start - 2000-01-22 13:05, End - 2000-01-23 15:23
+Pairing 531 (BASE2) : Start - 2000-01-24 10:54, End - 2000-01-25 19:49
+
+ 
+Employee 231: 36.06666666666665 Credited Flying Time (In Hours) 
+Pairing 517 (BASE2) : Start - 2000-01-24 19:37, End - 2000-01-27 20:58
+Pairing 1467 (BASE2) : Start - 2000-01-30 22:07, End - 2000-02-01 00:46
+
+ 
+Employee 232: 68.25000000000001 Credited Flying Time (In Hours) 
+Pairing 1066 (BASE2) : Start - 2000-01-03 23:23, End - 2000-01-05 21:53
+Pairing 403 (BASE2) : Start - 2000-01-06 23:25, End - 2000-01-07 23:54
+Pairing 842 (BASE2) : Start - 2000-01-16 16:16, End - 2000-01-17 23:48
+Pairing 1102 (BASE2) : Start - 2000-01-18 19:37, End - 2000-01-20 19:58
+Pairing 1285 (BASE2) : Start - 2000-01-23 01:09, End - 2000-01-23 11:55
+Pairing 873 (BASE2) : Start - 2000-01-27 17:06, End - 2000-01-27 23:09
+
+ 
+Employee 233: 80.24166666666667 Credited Flying Time (In Hours) 
+Pairing 1289 (BASE2) : Start - 2000-01-05 13:04, End - 2000-01-05 23:54
+Pairing 413 (BASE2) : Start - 2000-01-06 23:22, End - 2000-01-09 21:53
+Pairing 1083 (BASE2) : Start - 2000-01-14 23:15, End - 2000-01-16 01:52
+Pairing 1352 (BASE2) : Start - 2000-01-19 23:19, End - 2000-01-21 21:57
+Pairing 966 (BASE2) : Start - 2000-01-25 16:16, End - 2000-01-26 23:48
+Pairing 44 (BASE2) : Start - 2000-01-29 18:51, End - 2000-01-30 01:05
+
+ 
+Employee 234: 49.33333333333336 Credited Flying Time (In Hours) 
+Pairing 785 (BASE2) : Start - 2000-01-01 21:04, End - 2000-01-02 02:05
+Pairing 1174 (BASE2) : Start - 2000-01-04 01:06, End - 2000-01-05 09:58
+Employee Vacation Request: 2000-01-08 00:00 ==> 2000-01-20 23:59
+Pairing 851 (BASE2) : Start - 2000-01-16 16:02, End - 2000-01-18 13:21
+Pairing 1283 (BASE2) : Start - 2000-01-23 16:06, End - 2000-01-23 22:07
+Pairing 971 (BASE2) : Start - 2000-01-25 19:05, End - 2000-01-26 19:58
+
+ 
+Employee 235: 67.54166666666666 Credited Flying Time (In Hours) 
+Pairing 780 (BASE2) : Start - 2000-01-01 10:55, End - 2000-01-01 21:53
+Pairing 570 (BASE2) : Start - 2000-01-07 19:37, End - 2000-01-09 19:48
+Pairing 769 (BASE2) : Start - 2000-01-10 21:22, End - 2000-01-12 19:58
+Pairing 1081 (BASE2) : Start - 2000-01-14 13:07, End - 2000-01-15 00:05
+Pairing 964 (BASE2) : Start - 2000-01-25 13:04, End - 2000-01-26 09:47
+Pairing 1453 (BASE2) : Start - 2000-01-30 20:41, End - 2000-01-31 23:14
+
+ 
+Employee 236: 42.35000000000001 Credited Flying Time (In Hours) 
+Pairing 1084 (BASE2) : Start - 2000-01-14 23:23, End - 2000-01-16 00:05
+Pairing 553 (BASE2) : Start - 2000-01-17 23:19, End - 2000-01-20 13:21
+Pairing 43 (BASE2) : Start - 2000-01-29 00:23, End - 2000-01-30 01:03
+
+ 
+Employee 237: 63.55000000000001 Credited Flying Time (In Hours) 
+Pairing 1062 (BASE2) : Start - 2000-01-03 13:05, End - 2000-01-04 15:23
+Pairing 1086 (BASE2) : Start - 2000-01-14 23:22, End - 2000-01-17 02:05
+Pairing 541 (BASE2) : Start - 2000-01-17 13:07, End - 2000-01-18 14:57
+Pairing 965 (BASE2) : Start - 2000-01-25 16:10, End - 2000-01-26 13:21
+Pairing 1469 (BASE2) : Start - 2000-01-30 00:23, End - 2000-01-31 01:03
+
+ 
+Employee 238: 30.400000000000013 Credited Flying Time (In Hours) 
+Pairing 1345 (BASE2) : Start - 2000-01-19 22:30, End - 2000-01-20 23:55
+Pairing 529 (BASE2) : Start - 2000-01-24 23:25, End - 2000-01-25 23:54
+Pairing 1486 (BASE2) : Start - 2000-01-28 14:00, End - 2000-01-29 16:23
+
+ 
+Employee 239: 75.95 Credited Flying Time (In Hours) 
+Employee Vacation Request: 2000-01-06 00:00 ==> 2000-01-10 23:59
+Pairing 198 (BASE2) : Start - 2000-01-08 19:37, End - 2000-01-11 22:13
+Pairing 849 (BASE2) : Start - 2000-01-16 21:22, End - 2000-01-18 19:58
+Pairing 1279 (BASE2) : Start - 2000-01-23 13:05, End - 2000-01-24 15:23
+Pairing 866 (BASE2) : Start - 2000-01-27 22:00, End - 2000-01-28 23:09
+Pairing 32 (BASE2) : Start - 2000-01-29 14:02, End - 2000-01-30 20:42
+
+ 
+Employee 240: 78.15 Credited Flying Time (In Hours) 
+Employee Vacation Request: 2000-01-01 00:00 ==> 2000-01-03 23:59
+Pairing 201 (BASE2) : Start - 2000-01-08 16:05, End - 2000-01-12 00:00
+Pairing 544 (BASE2) : Start - 2000-01-17 21:22, End - 2000-01-18 19:48
+Pairing 686 (BASE2) : Start - 2000-01-20 23:25, End - 2000-01-21 23:54
+Pairing 160 (BASE2) : Start - 2000-01-22 23:22, End - 2000-01-25 02:05
+Pairing 1490 (BASE2) : Start - 2000-01-28 00:22, End - 2000-01-29 03:03
+
+ 
+Employee 241: 42.416666666666664 Credited Flying Time (In Hours) 
+Pairing 1380 (BASE2) : Start - 2000-01-02 01:09, End - 2000-01-02 11:55
+Pairing 402 (BASE2) : Start - 2000-01-06 23:23, End - 2000-01-07 19:48
+Pairing 205 (BASE2) : Start - 2000-01-15 01:11, End - 2000-01-15 12:09
+Pairing 1107 (BASE2) : Start - 2000-01-18 16:02, End - 2000-01-21 19:54
+
+ 
+Employee 242: 84.86666666666665 Credited Flying Time (In Hours) 
+Pairing 1288 (BASE3) : Start - 2000-01-01 18:15, End - 2000-01-02 01:33
+Pairing 910 (BASE3) : Start - 2000-01-03 18:15, End - 2000-01-04 01:33
+Pairing 911 (BASE3) : Start - 2000-01-04 13:30, End - 2000-01-06 01:33
+Pairing 1164 (BASE3) : Start - 2000-01-10 13:30, End - 2000-01-11 16:40
+Pairing 1376 (BASE3) : Start - 2000-01-14 13:30, End - 2000-01-16 01:33
+Pairing 103 (BASE3) : Start - 2000-01-17 13:30, End - 2000-01-18 16:40
+Pairing 1398 (BASE3) : Start - 2000-01-21 13:30, End - 2000-01-23 01:33
+Pairing 1240 (BASE3) : Start - 2000-01-24 18:15, End - 2000-01-25 01:33
+Pairing 1476 (BASE3) : Start - 2000-01-29 14:31, End - 2000-01-31 02:34
+
+ 
+Employee 243: 72.21666666666665 Credited Flying Time (In Hours) 
+Pairing 909 (BASE3) : Start - 2000-01-03 13:30, End - 2000-01-05 01:33
+Pairing 634 (BASE3) : Start - 2000-01-07 13:30, End - 2000-01-09 01:33
+Pairing 415 (BASE3) : Start - 2000-01-09 13:30, End - 2000-01-10 16:40
+Pairing 181 (BASE3) : Start - 2000-01-11 13:30, End - 2000-01-12 16:33
+Pairing 913 (BASE3) : Start - 2000-01-16 13:30, End - 2000-01-18 01:33
+Pairing 877 (BASE3) : Start - 2000-01-18 13:30, End - 2000-01-19 16:40
+Employee Vacation Request: 2000-01-20 00:00 ==> 2000-01-29 23:59
+
+ 
+Employee 244: 66.31666666666665 Credited Flying Time (In Hours) 
+Pairing 1165 (BASE3) : Start - 2000-01-10 18:15, End - 2000-01-11 01:33
+Pairing 182 (BASE3) : Start - 2000-01-11 18:15, End - 2000-01-12 01:33
+Pairing 993 (BASE3) : Start - 2000-01-12 13:30, End - 2000-01-14 01:33
+Pairing 178 (BASE3) : Start - 2000-01-15 13:30, End - 2000-01-16 16:40
+Pairing 179 (BASE3) : Start - 2000-01-19 18:15, End - 2000-01-20 01:33
+Pairing 1397 (BASE3) : Start - 2000-01-21 18:15, End - 2000-01-22 01:33
+Pairing 372 (BASE3) : Start - 2000-01-22 13:30, End - 2000-01-24 01:33
+Pairing 1377 (BASE3) : Start - 2000-01-27 14:30, End - 2000-01-29 02:34
+
+ 
+Employee 245: 70.56666666666668 Credited Flying Time (In Hours) 
+Pairing 1072 (BASE3) : Start - 2000-01-02 13:30, End - 2000-01-03 16:40
+Pairing 373 (BASE3) : Start - 2000-01-06 13:30, End - 2000-01-08 01:33
+Pairing 677 (BASE3) : Start - 2000-01-08 13:30, End - 2000-01-10 01:33
+Pairing 992 (BASE3) : Start - 2000-01-12 18:15, End - 2000-01-13 01:33
+Pairing 180 (BASE3) : Start - 2000-01-19 13:30, End - 2000-01-21 01:33
+Pairing 203 (BASE3) : Start - 2000-01-25 13:30, End - 2000-01-27 01:33
+
+ 
+Employee 246: 82.98333333333332 Credited Flying Time (In Hours) 
+Pairing 1287 (BASE3) : Start - 2000-01-01 13:30, End - 2000-01-03 01:33
+Pairing 1378 (BASE3) : Start - 2000-01-05 13:30, End - 2000-01-07 01:33
+Pairing 267 (BASE3) : Start - 2000-01-13 13:30, End - 2000-01-15 01:33
+Pairing 912 (BASE3) : Start - 2000-01-16 18:15, End - 2000-01-17 01:33
+Pairing 878 (BASE3) : Start - 2000-01-18 18:15, End - 2000-01-19 01:33
+Pairing 1025 (BASE3) : Start - 2000-01-23 13:30, End - 2000-01-24 16:40
+Pairing 1359 (BASE3) : Start - 2000-01-26 13:30, End - 2000-01-28 02:34
+Pairing 1399 (BASE3) : Start - 2000-01-28 14:30, End - 2000-01-30 02:34
+
+ 
+Employee 247: 20.316666666666656 Credited Flying Time (In Hours) 
+Pairing 202 (BASE3) : Start - 2000-01-20 13:30, End - 2000-01-21 16:40
+Pairing 1241 (BASE3) : Start - 2000-01-24 13:30, End - 2000-01-26 01:33
+
+ 
+Vacation Preferences Achieved: 82.43%
+Flight Leg Preferences Achieved: 28.84%
