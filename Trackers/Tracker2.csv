@@ -1,1 +1,201 @@
 "ID","Solution Cost","Generation Born", "Generation Died", "Generation Method"
+114,1980331,1,1,Crossover and Mutation
+1464,1971545,1,1,Crossover and Mutation
+1495,1964895,1,1,Crossover and Mutation
+112,1962718,1,1,Crossover and Mutation
+1145,1961919,1,1,Crossover and Mutation
+1263,1948284,1,1,Crossover and Mutation
+1262,1940856,1,1,Crossover and Mutation
+1254,1940845,1,1,Crossover and Mutation
+1459,1940271,1,1,Crossover and Mutation
+1293,1939338,1,1,Crossover and Mutation
+1385,1936888,1,1,Crossover and Mutation
+1118,1936610,1,1,Crossover and Mutation
+1488,1933847,1,1,Crossover and Mutation
+1406,1933732,1,1,Crossover and Mutation
+1215,1929601,1,1,Crossover and Mutation
+1357,1927592,1,1,Crossover and Mutation
+136,1923663,1,1,Crossover and Mutation
+1259,1923155,1,1,Crossover and Mutation
+1291,1919423,1,1,Crossover and Mutation
+1196,1917731,1,1,Crossover and Mutation
+1341,1917152,1,1,Crossover and Mutation
+1183,1916992,1,1,Crossover and Mutation
+1466,1913757,1,1,Crossover and Mutation
+1123,1913248,1,1,Crossover and Mutation
+102,1909642,1,1,Crossover and Mutation
+117,1906923,1,1,Crossover and Mutation
+35,1906692,0,1,Random Generation
+79,1905195,0,1,Random Generation
+30,1902688,0,1,Random Generation
+1205,1901472,1,1,Crossover and Mutation
+1485,1901123,1,1,Crossover and Mutation
+1421,1898833,1,1,Crossover and Mutation
+1487,1898644,1,1,Crossover and Mutation
+1256,1897992,1,1,Crossover and Mutation
+1309,1896084,1,1,Crossover and Mutation
+1478,1894421,1,1,Crossover and Mutation
+150,1893294,1,1,Crossover and Mutation
+1290,1892319,1,1,Crossover and Mutation
+27,1891843,0,1,Random Generation
+1105,1888948,1,1,Crossover and Mutation
+76,1888710,0,1,Random Generation
+188,1886327,1,1,Crossover and Mutation
+1422,1884011,1,1,Crossover and Mutation
+150,1883815,1,1,Crossover and Mutation
+1430,1883068,1,1,Crossover and Mutation
+19,1881457,0,1,Random Generation
+196,1881271,1,1,Crossover and Mutation
+137,1880420,1,1,Crossover and Mutation
+1212,1879735,1,1,Crossover and Mutation
+144,1879424,1,1,Crossover and Mutation
+119,1879272,1,1,Crossover and Mutation
+1468,1879058,1,1,Crossover and Mutation
+1481,1878049,1,1,Crossover and Mutation
+197,1875726,1,1,Crossover and Mutation
+1441,1875466,1,1,Crossover and Mutation
+1309,1875171,1,1,Crossover and Mutation
+1344,1874961,1,1,Crossover and Mutation
+8,1874810,0,1,Random Generation
+142,1874716,1,1,Crossover and Mutation
+1396,1873604,1,1,Crossover and Mutation
+1195,1872072,1,1,Crossover and Mutation
+160,1871893,1,1,Crossover and Mutation
+1423,1871244,1,1,Crossover and Mutation
+1110,1871129,1,1,Crossover and Mutation
+1488,1870642,1,1,Crossover and Mutation
+1289,1870624,1,1,Crossover and Mutation
+1248,1869488,1,1,Crossover and Mutation
+1234,1869468,1,1,Crossover and Mutation
+1438,1868654,1,1,Crossover and Mutation
+1352,1867921,1,1,Crossover and Mutation
+1384,1867383,1,1,Crossover and Mutation
+105,1867355,1,1,Crossover and Mutation
+194,1866556,1,1,Crossover and Mutation
+1342,1865075,1,1,Crossover and Mutation
+1206,1864907,1,1,Crossover and Mutation
+1475,1864758,1,1,Crossover and Mutation
+1199,1864280,1,1,Crossover and Mutation
+1307,1864019,1,1,Crossover and Mutation
+1340,1862150,1,1,Crossover and Mutation
+91,1861027,0,1,Random Generation
+1308,1860139,1,1,Crossover and Mutation
+1380,1860132,1,1,Crossover and Mutation
+1172,1858787,1,1,Crossover and Mutation
+1202,1858579,1,1,Crossover and Mutation
+1149,1858098,1,1,Crossover and Mutation
+1378,1857706,1,1,Crossover and Mutation
+1178,1857070,1,1,Crossover and Mutation
+1103,1857009,1,1,Crossover and Mutation
+1405,1856293,1,1,Crossover and Mutation
+1346,1856221,1,1,Crossover and Mutation
+1181,1856167,1,1,Crossover and Mutation
+1375,1854531,1,1,Crossover and Mutation
+1156,1853611,1,1,Crossover and Mutation
+129,1853558,1,1,Crossover and Mutation
+1349,1853015,1,1,Crossover and Mutation
+75,1852775,0,1,Random Generation
+1443,1852054,1,1,Crossover and Mutation
+1379,1851737,1,1,Crossover and Mutation
+196,1851241,1,1,Crossover and Mutation
+1435,1850795,1,1,Crossover and Mutation
+1340,1850739,1,1,Crossover and Mutation
+14,1850003,0,1,Random Generation
+11,1849727,0,1,Random Generation
+1313,1849544,1,1,Crossover and Mutation
+1173,1849056,1,1,Crossover and Mutation
+1143,1847050,1,1,Crossover and Mutation
+1284,1847013,1,1,Crossover and Mutation
+122,1846267,1,1,Crossover and Mutation
+1301,1844936,1,1,Crossover and Mutation
+1276,1844235,1,1,Crossover and Mutation
+17,1843773,1,1,Crossover and Mutation
+191,1843071,1,1,Crossover and Mutation
+63,1842752,0,1,Random Generation
+1458,1842363,1,1,Crossover and Mutation
+1235,1841617,1,1,Crossover and Mutation
+1220,1841281,1,1,Crossover and Mutation
+142,1840862,1,1,Crossover and Mutation
+0,1839715,0,1,Random Generation
+1493,1839624,1,1,Crossover and Mutation
+43,1838941,0,1,Random Generation
+1221,1837843,1,1,Crossover and Mutation
+1186,1837182,1,1,Crossover and Mutation
+1352,1835936,1,1,Crossover and Mutation
+1397,1835728,1,1,Crossover and Mutation
+17,1835572,0,1,Random Generation
+1192,1835490,1,1,Crossover and Mutation
+1387,1835381,1,1,Crossover and Mutation
+1214,1834930,1,1,Crossover and Mutation
+1333,1834887,1,1,Crossover and Mutation
+1210,1834823,1,1,Crossover and Mutation
+110,1834817,1,1,Crossover and Mutation
+1171,1834713,1,1,Crossover and Mutation
+1218,1834525,1,1,Crossover and Mutation
+1392,1834477,1,1,Crossover and Mutation
+1499,1834396,1,1,Crossover and Mutation
+1220,1834260,1,1,Crossover and Mutation
+1467,1832668,1,1,Crossover and Mutation
+13,1832529,0,1,Random Generation
+1283,1831839,1,1,Crossover and Mutation
+1142,1831765,1,1,Crossover and Mutation
+46,1831379,0,1,Random Generation
+1288,1831082,1,1,Crossover and Mutation
+1213,1829641,1,1,Crossover and Mutation
+1460,1829622,1,1,Crossover and Mutation
+12,1829334,0,1,Random Generation
+66,1828623,0,1,Random Generation
+1299,1828489,1,1,Crossover and Mutation
+53,1828276,0,1,Random Generation
+87,1828072,0,1,Random Generation
+16,1827983,1,1,Crossover and Mutation
+55,1827767,0,1,Random Generation
+1408,1826679,1,1,Crossover and Mutation
+58,1826374,0,1,Random Generation
+81,1826315,0,1,Random Generation
+57,1826166,0,1,Random Generation
+49,1824600,0,1,Random Generation
+190,1823917,1,1,Crossover and Mutation
+86,1823863,0,1,Random Generation
+1420,1823783,1,1,Crossover and Mutation
+1314,1823334,1,1,Crossover and Mutation
+1382,1823121,1,1,Crossover and Mutation
+1159,1822496,1,1,Crossover and Mutation
+1274,1822357,1,1,Crossover and Mutation
+1290,1822235,1,1,Crossover and Mutation
+1476,1822090,1,1,Crossover and Mutation
+118,1821713,1,1,Crossover and Mutation
+1282,1821404,1,1,Crossover and Mutation
+83,1820979,0,1,Random Generation
+1491,1820490,1,1,Crossover and Mutation
+172,1820273,1,1,Crossover and Mutation
+67,1819496,0,1,Random Generation
+1259,1818564,1,1,Crossover and Mutation
+1312,1818336,1,1,Crossover and Mutation
+31,1818008,0,1,Random Generation
+1409,1817887,1,1,Crossover and Mutation
+1128,1817742,1,1,Crossover and Mutation
+22,1817683,0,1,Random Generation
+1235,1817454,1,1,Crossover and Mutation
+16,1816231,0,1,Random Generation
+1453,1815767,1,1,Crossover and Mutation
+1338,1815311,1,1,Crossover and Mutation
+1251,1814271,1,1,Crossover and Mutation
+1160,1813899,1,1,Crossover and Mutation
+6,1813454,0,1,Random Generation
+187,1813453,1,1,Crossover and Mutation
+47,1813187,0,1,Random Generation
+1153,1812868,1,1,Crossover and Mutation
+1436,1812597,1,1,Crossover and Mutation
+1108,1812558,1,1,Crossover and Mutation
+1430,1812540,1,1,Crossover and Mutation
+1298,1812514,1,1,Crossover and Mutation
+1426,1810409,1,1,Crossover and Mutation
+1291,1810110,1,1,Crossover and Mutation
+131,1809577,1,1,Crossover and Mutation
+1196,1808637,1,1,Crossover and Mutation
+180,1808312,1,1,Crossover and Mutation
+1207,1808161,1,1,Crossover and Mutation
+1318,1807343,1,1,Crossover and Mutation
+149,1807091,1,1,Crossover and Mutation
+1125,1805971,1,1,Crossover an
